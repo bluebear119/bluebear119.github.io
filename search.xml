@@ -1,102 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>變成蟲蟲的公仔欺詐師之人物介紹 01 公仔人-TP</title>
-    <url>/star-world/coc-novel-owncreation/dollman-advanture/dollmanTP/</url>
-    <content><![CDATA[<p>大家好，這是我第一次以廣東話的形式來寫故事。這是一個關於克蘇魯神話生物當中，其中一隻怪物羅伊格爾 (Lloigor) 把一隻可愛的公仔人 - TP 當作實驗品後，佔領其肉體，令他靈魂變成了碎片散落到世界不同角落，使他被迫為了讓自己恢復原樣和找到羅伊格爾報仇的故事。</p>
-<p><img data-src="https://i.postimg.cc/xjzQgLQf/photo-2017-02-16-12-45-11.jpg" alt="photo-2017-02-16-12-45-11.jpg" /></p>
-<p>角色姓名：TP，10.87878787 歲<br />
-職業：專業欺詐師</p>
-<p>公仔族人，係公仔一族當中最詭計多端的小人物。係細細個嘅時候已經叻到成功呃晒成個族群 D 人，個個見親佢，都嚇到避而遠之，不敢同佢打交道。</p>
-<p>久而久之，他的孤獨令佢獲得了一個分身的能力，平時佢悶嘅時候都會叫分身出黎陪佢玩。呢個分身最特別的就係，可以同 TP 一樣隨時改變自己公仔人的模樣，例如變成可愛的兔仔公仔人。</p>
-<p>不再是自己一個人的 TP，日子都變得不怎麼悶了。</p>
-<p><img data-src="https://i.postimg.cc/pdrbjFkt/494851bd2bf3b7df03655e97b0768994.jpg" alt="494851bd2bf3b7df03655e97b0768994.jpg" /></p>
-<p>可惜呢 D 幸福日子也維持不了多久，TP 最終還是忍受不了自己同自己講野，好似好低 B 咁樣。於是乎，佢開始對未來有咗新嘅打算。</p>
-<p>佢離開了公仔一族，靜雞雞咁黎到左人類世界，皆因一般人類的世界認知觀裡面是沒有真實出現過公仔人，於是佢就改頭換面換埋個樣。</p>
-<p>變成人樣後，也誤打誤撞係人類世界靠著他天赋异禀的呃人能力成了一個專業的欺詐師。佢下手嘅目標可以是從 BB 到老人，就連白痴，智力低下嘅都唔放過。</p>
-<p>後來，佢行街搵水魚嘅時候，唔知點解個腦好似失去思考能力咁樣，應承咗做羅伊格爾嘅實驗品，可惜慘遭羅伊格爾背叛，肉體被佔領，自己只能控制變成蟲蟲形態的元神，身體元神無處可歸。</p>
-<p>更何況，佢元神嘅 Size 實在太細啦，所以話，世間上無咩人可以睇到佢。不過，最悲慘嘅事實，莫過於 TP 嘅靈魂，無啦啦就噉樣分散成 7 片，四散在世界不同的角落。</p>
-<p>為了恢復自己靈魂碎片，TP 幸運地遇上佢盟友，還成立了心機婊大聯盟【TP 自稱】，除了要搵番碎片之外，仲要解開碎片裡面隱藏的秘密，當然也少不了對羅伊格爾展開一連串的復仇計劃。</p>
-<p>如果你喜歡這一篇文章的話，記得為這文章按讚，那樣你就能以實際的行動支持我的創作，我也可以收到創作的回報。</p>
-<p><img data-src="https://i.postimg.cc/1RJGCVrd/Liking-call-out-2-1.gif" alt="" /></p>
-<p><iframe src="https://button.like.co/in/embed/bluebear119/button?referrer=http://localhost:4000/star-world/coc-novel-owncreation/dollman-advanture/dollmanTP.html&amp" width="100%" height="300" frameborder="0" loading="lazy" allowfullscreen></iframe></p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>戰鬥特技詳細解析</title>
+      <link href="swordworld_25/character_creating_extra_guide/Skill_Explian_Guide/Battle_skill/"/>
+      <url>swordworld_25/character_creating_extra_guide/Skill_Explian_Guide/Battle_skill/</url>
+      
+        <content type="html"><![CDATA[<p>詳細請參考規則書『I』 ⇒ 277 頁</p><h1 id="戰鬥特技-常時特技"><a class="anchor" href="#戰鬥特技-常時特技">#</a> 戰鬥特技 - 常時特技</h1><details class="primary"><summary>《閃避》／《かいくぐり》</summary><div><ul><li>前提：無</li><li>使用：《盾》</li><li>概要：近戰時裝備盾牌並迴避成功時，下次攻擊 C 數值 -1</li><li>效果：以盾牌架開攻擊後，使自己取得有利位置並進行致命的一擊。習得這個特技的角色，要記下在一回合內對來敵人的近接攻擊的回避力判定成功的次數，自己下一個回合進行的第一次近接攻擊時，暴擊值會「- 回避成功的次數」，但不會使暴擊值降到 7 或以下。</li><li>角色自己進行的攻擊，如果是對多個目標進行的攻擊的話，則從命中的目標中選 1 個，在決定傷害時適用此效果。</li><li>此效果在迴避力判定時必須裝備盾，而在進行近接攻擊時沒有盾也無妨。此外，只要進行 1 次接近攻擊就會失去效果。</li></ul></div></details><details class="info"><summary>《回避行動 I》／《回避行動 I》</summary><div><ul><li>前提：冒險者等級 3 以上</li><li>使用：無</li><li>概要:回避力判定 +1</li><li>效果：回避力常駐 +1。</li></ul></div></details><details class="success"><summary>《終律增強》／《終律増強》</summary><div><ul><li>前提：吟遊詩人技能等級 3 以上</li><li>使用：吟遊詩人技能</li><li>概要：終律的威力 +10</li><li>效果：終律造成的傷害和回復量的威力 +10</li></ul></div></details><details class="warning"><summary>《咒歌追加 I》／《呪歌追加 I》</summary><div><ul><li>前提：吟遊詩人技能等級 1 以上</li><li>使用: -</li><li>概要：咒歌和終律的習得數 +1</li><li>效果：可學習的咒歌和終律的數量 +1。換言之，共計可學習的咒歌和終律的數量為「吟遊詩人技能等級 +1」。</li></ul></div></details>]]></content>
+      
+      
       <categories>
-        <category>星靈世界</category>
-        <category>克蘇魯原創小說</category>
-        <category>變成蟲蟲的公仔欺詐師</category>
+          
+          <category> 劍世界2.5 </category>
+          
+          <category> 角色創造補充指導書 </category>
+          
+          <category> SW2.5職業技能全解析 </category>
+          
       </categories>
-      <tags>
-        <tag>克蘇魯原創小說</tag>
-        <tag>人物介紹</tag>
-        <tag>羅伊格爾</tag>
-        <tag>變成蟲蟲的公仔欺詐師</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>天際凌鏡 - 帝納浮島導航系統</title>
-    <url>/prismisland/</url>
-    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <div class="hbe-input-container">
-  <input type="password" id="hbePass" placeholder="" />
-    <label for="hbePass">Welcome to my blog, enter password to read.</label>
-    <div class="bottom-line"></div>
-  </div>
-  <script id="hbeData" type="hbeData" data-hmacdigest="06eab155ac28f206cd5a414130a2c2f5b44a8627de12db9f85674448be7d426a">35cac66583a0c7a5b6aee3dbedfab40806c39c1a431d96cec8071aac1cfba15ac243b6da49b64cd5b6337094dce6af1dc9d5de8b3a6c93da3e8ca03dace0b9428f79b08cb95935d8114c3190733a164708f2241f58b7eb951fc00558254325ea52af0ced1ddd75a165e5c6e0c626e5713130f1edc4e93cfa258fefeb6769d48571138dac0620fa91c55e3e1583a84ba9cbffa4d8a0ea50c184ee1a6a7b7debbdf93af165ae689ee05e1585dd98a6337a340a7e3a07010b35cd17f421910c811cf7870f1b25caec8df4cc52a76ae631b0e55941ae92823cff0b26d433fff90bc446cab10ca6f7700f76ec215a39cf8d9763c1632521ca9928776f4c54ef20a7783d4135d903c897da172cb7e12ad2271c8a74d46942b2767b90ab4699579386a19a47eb110a589419cad4d8668507ac43b44d656c65e19a5b467e8c7b746a5e098a6e0fdef75f5cd14c3ce471fe1f4cb4d308c0b7f0649e52cdba21482ea496328f48543936f2d2bcf6783c1976675f945ec5ff5d4eacc2ff071441f6d97075e95c8f8f64a278936ce0d4ae38b027c6c06d0a70c9351361039f0c189fd77564d73c381aeb96b3c80692adfc338157c70afa1599945b5dbcdecd21946964f91a6569ced9754eba437e8249f8ebcf03ae8a87b5720a10c16aec12321a95018aa10ad87cf056b700a2b6a2b76e48b72b307e362e2107aeaa42e0b0bff49b2cc53d541376f8d186fc7386882db3fa0202e9b3dd1c2c7c7df09fc2ef88c18a105206ef27ef895362d908bbe3d6694f3085b10fcbec837a21f75add2041e4cb8c57bc2c60393b2d05c9d2dcca94f7bf602542690a01dccb4bab19ed189e60a6daaa8e59e36af8db87adc82a798a4345176eee196cfd2161f666716787edfebbf0e25760179d29324d8ce15fdd5579c02e8218a0a582d6dc9c4f6accf05a940230579833cffd45475c7b5dfe632b2ade1151240717b180423b8f7e175f998d152cbccc9ce087a5fcbfea63f201d3e0f5db22e57671e9274447adc9a4f5e82d94f371a99a96bfc32fd2e5133af275c8910f970100c2452319693112a4e4373cf34332cc93509859ca66ac10cd7a55d45c873da807a0669f8e0bd47a2fbc2b75f13e1df23b4fe8ce6517b79a7f21ddc964bf194db9ad07a6065c9ee824333d58a3b7206ee9483967bc014283f1df4213ff1e5388290fda5568f9955b72c5c0eeb36831d1480136174cba6eca10de37186c841de2e6849a4d030cff083b37074abf06aa308fafe8fbce137c71fd9cbb7cc7eee0397421a90afe1ffbf15a80821e4a8fdc28c172a2de257bc3ef0180a5b477c9d5b9ecf6848294f0abd9dc3ed31b246b78bae143212d467d7c299f80a1221bd6402b38f915544a7410de85fa40832ef648d30a227f38da7cc7673d96dce69fd9c5987d1b17b1bfd75bdaeba62ef65336bb85cde62a0d64896423b0c4e9e836414348cbc9626a148474ef2f66382b480de0925f</script>
-</div>
-<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
-      <tags>
-        <tag>天際凌鏡</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>戰鬥特技詳細解析</title>
-    <url>/swordworld_25/character_creating_extra_guide/Skill_Explian_Guide/Battle_skill/</url>
-    <content><![CDATA[<p>詳細請參考規則書『I』 ⇒ 277 頁</p>
-<h1 id="戰鬥特技-常時特技"><a class="anchor" href="#戰鬥特技-常時特技">#</a> 戰鬥特技 - 常時特技</h1>
-<details class="primary"><summary>《閃避》／《かいくぐり》</summary><div>
-<ul>
-<li>前提：無</li>
-<li>使用：《盾》</li>
-<li>概要：近戰時裝備盾牌並迴避成功時，下次攻擊 C 數值 -1</li>
-<li>效果：以盾牌架開攻擊後，使自己取得有利位置並進行致命的一擊。習得這個特技的角色，要記下在一回合內對來敵人的近接攻擊的回避力判定成功的次數，自己下一個回合進行的第一次近接攻擊時，暴擊值會「- 回避成功的次數」，但不會使暴擊值降到 7 或以下。</li>
-<li>角色自己進行的攻擊，如果是對多個目標進行的攻擊的話，則從命中的目標中選 1 個，在決定傷害時適用此效果。</li>
-<li>此效果在迴避力判定時必須裝備盾，而在進行近接攻擊時沒有盾也無妨。此外，只要進行 1 次接近攻擊就會失去效果。</li>
-</ul>
-</div></details>
-<details class="info"><summary>《回避行動 I》／《回避行動 I》</summary><div>
-<ul>
-<li>前提：冒險者等級 3 以上</li>
-<li>使用：無</li>
-<li>概要:	回避力判定 +1</li>
-<li>效果：回避力常駐 +1。</li>
-</ul>
-</div></details>
-<details class="success"><summary>《終律增強》／《終律増強》</summary><div>
-<ul>
-<li>前提：吟遊詩人技能等級 3 以上</li>
-<li>使用：吟遊詩人技能</li>
-<li>概要：終律的威力 +10</li>
-<li>效果：終律造成的傷害和回復量的威力 +10</li>
-</ul>
-</div></details>
-<details class="warning"><summary>《咒歌追加 I》／《呪歌追加 I》</summary><div>
-<ul>
-<li>前提：吟遊詩人技能等級 1 以上</li>
-<li>使用: -</li>
-<li>概要：咒歌和終律的習得數 +1</li>
-<li>效果：可學習的咒歌和終律的數量 +1。換言之，共計可學習的咒歌和終律的數量為「吟遊詩人技能等級 +1」。</li>
-</ul>
-</div></details>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 劍世界2.5 </tag>
+            
+            <tag> 角色創造補充指導書 </tag>
+            
+            <tag> SW2.5職業技能全解析 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>變成蟲蟲的公仔欺詐師之人物介紹 01 公仔人-TP</title>
+      <link href="star-world/coc-novel-owncreation/dollman-advanture/dollmanTP/"/>
+      <url>star-world/coc-novel-owncreation/dollman-advanture/dollmanTP/</url>
+      
+        <content type="html"><![CDATA[<p>大家好，這是我第一次以廣東話的形式來寫故事。這是一個關於克蘇魯神話生物當中，其中一隻怪物羅伊格爾 (Lloigor) 把一隻可愛的公仔人 - TP 當作實驗品後，佔領其肉體，令他靈魂變成了碎片散落到世界不同角落，使他被迫為了讓自己恢復原樣和找到羅伊格爾報仇的故事。</p><p><img data-src="https://i.postimg.cc/xjzQgLQf/photo-2017-02-16-12-45-11.jpg" alt="photo-2017-02-16-12-45-11.jpg" /></p><p>角色姓名：TP，10.87878787 歲<br />職業：專業欺詐師</p><p>公仔族人，係公仔一族當中最詭計多端的小人物。係細細個嘅時候已經叻到成功呃晒成個族群 D 人，個個見親佢，都嚇到避而遠之，不敢同佢打交道。</p><p>久而久之，他的孤獨令佢獲得了一個分身的能力，平時佢悶嘅時候都會叫分身出黎陪佢玩。呢個分身最特別的就係，可以同 TP 一樣隨時改變自己公仔人的模樣，例如變成可愛的兔仔公仔人。</p><p>不再是自己一個人的 TP，日子都變得不怎麼悶了。</p><p><img data-src="https://i.postimg.cc/pdrbjFkt/494851bd2bf3b7df03655e97b0768994.jpg" alt="494851bd2bf3b7df03655e97b0768994.jpg" /></p><p>可惜呢 D 幸福日子也維持不了多久，TP 最終還是忍受不了自己同自己講野，好似好低 B 咁樣。於是乎，佢開始對未來有咗新嘅打算。</p><p>佢離開了公仔一族，靜雞雞咁黎到左人類世界，皆因一般人類的世界認知觀裡面是沒有真實出現過公仔人，於是佢就改頭換面換埋個樣。</p><p>變成人樣後，也誤打誤撞係人類世界靠著他天赋异禀的呃人能力成了一個專業的欺詐師。佢下手嘅目標可以是從 BB 到老人，就連白痴，智力低下嘅都唔放過。</p><p>後來，佢行街搵水魚嘅時候，唔知點解個腦好似失去思考能力咁樣，應承咗做羅伊格爾嘅實驗品，可惜慘遭羅伊格爾背叛，肉體被佔領，自己只能控制變成蟲蟲形態的元神，身體元神無處可歸。</p><p>更何況，佢元神嘅 Size 實在太細啦，所以話，世間上無咩人可以睇到佢。不過，最悲慘嘅事實，莫過於 TP 嘅靈魂，無啦啦就噉樣分散成 7 片，四散在世界不同的角落。</p><p>為了恢復自己靈魂碎片，TP 幸運地遇上佢盟友，還成立了心機婊大聯盟【TP 自稱】，除了要搵番碎片之外，仲要解開碎片裡面隱藏的秘密，當然也少不了對羅伊格爾展開一連串的復仇計劃。</p><p>如果你喜歡這一篇文章的話，記得為這文章按讚，那樣你就能以實際的行動支持我的創作，我也可以收到創作的回報。</p><p><img data-src="https://i.postimg.cc/1RJGCVrd/Liking-call-out-2-1.gif" alt="" /></p><p><iframe src="https://button.like.co/in/embed/bluebear119/button?referrer=http://localhost:4000/star-world/coc-novel-owncreation/dollman-advanture/dollmanTP.html&amp" width="100%" height="300" frameborder="0" loading="lazy" allowfullscreen></iframe></p>]]></content>
+      
+      
       <categories>
-        <category>TRPG，劍世界2.5</category>
-        <category>角色創造補充指導書</category>
+          
+          <category> 星靈世界 </category>
+          
+          <category> 克蘇魯原創小說 </category>
+          
+          <category> 變成蟲蟲的公仔欺詐師 </category>
+          
       </categories>
-      <tags>
-        <tag>TRPG</tag>
-        <tag>劍世界2.5</tag>
-        <tag>角色創造補充指導書</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 克蘇魯原創小說 </tag>
+            
+            <tag> 人物介紹 </tag>
+            
+            <tag> 羅伊格爾 </tag>
+            
+            <tag> 變成蟲蟲的公仔欺詐師 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>天際凌鏡 - 帝納浮島導航系統</title>
+      <link href="prismisland/"/>
+      <url>prismisland/</url>
+      
+        <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">Welcome to my blog, enter password to read.</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="06eab155ac28f206cd5a414130a2c2f5b44a8627de12db9f85674448be7d426a">35cac66583a0c7a5b6aee3dbedfab40806c39c1a431d96cec8071aac1cfba15ac243b6da49b64cd5b6337094dce6af1dc9d5de8b3a6c93da3e8ca03dace0b9428f79b08cb95935d8114c3190733a164708f2241f58b7eb951fc00558254325ea52af0ced1ddd75a165e5c6e0c626e5713130f1edc4e93cfa258fefeb6769d48571138dac0620fa91c55e3e1583a84ba9cbffa4d8a0ea50c184ee1a6a7b7debbdf93af165ae689ee05e1585dd98a6337a340a7e3a07010b35cd17f421910c811cf7870f1b25caec8df4cc52a76ae631b0e55941ae92823cff0b26d433fff90bc446cab10ca6f7700f76ec215a39cf8d9763c1632521ca9928776f4c54ef20a7783d4135d903c897da172cb7e12ad2271c8a74d46942b2767b90ab4699579386a19a47eb110a589419cad4d8668507ac43b44d656c65e19a5b467e8c7b746a5e098a6e0fdef75f5cd14c3ce471fe1f4cb4d308c0b7f0649e52cdba21482ea496328f48543936f2d2bcf6783c1976675f945ec5ff5d4eacc2ff071441f6d97075e95c8f8f64a278936ce0d4ae38b027c6c06d0a70c9351361039f0c189fd77564d73c381aeb96b3c80692adfc338157c70afa1599945b5dbcdecd21946964f91a6569ced9754eba437e8249f8ebcf03ae8a87b5720a10c16aec12321a95018aa10ad87cf056b700a2b6a2b76e48b72b307e362e2107aeaa42e0b0bff49b2cc53d541376f8d186fc7386882db3fa0202e9b3dd1c2c7c7df09fc2ef88c18a105206ef27ef895362d908bbe3d6694f3085b10fcbec837a21f75add2041e4cb8c57bc2c60393b2d05c9d2dcca94f7bf602542690a01dccb4bab19ed189e60a6daaa8e59e36af8db87adc82a798a4345176eee196cfd2161f666716787edfebbf0e25760179d29324d8ce15fdd5579c02e8218a0a582d6dc9c4f6accf05a940230579833cffd45475c7b5dfe632b2ade1151240717b180423b8f7e175f998d152cbccc9ce087a5fcbfea63f201d3e0f5db22e57671e9274447adc9a4f5e82d94f371a99a96bfc32fd2e5133af275c8910f970100c2452319693112a4e4373cf34332cc93509859ca66ac10cd7a55d45c873da807a0669f8e0bd47a2fbc2b75f13e1df23b4fe8ce6517b79a7f21ddc964bf194db9ad07a6065c9ee824333d58a3b7206ee9483967bc014283f1df4213ff1e5388290fda5568f9955b72c5c0eeb36831d1480136174cba6eca10de37186c841de2e6849a4d030cff083b37074abf06aa308fafe8fbce137c71fd9cbb7cc7eee0397421a90afe1ffbf15a80821e4a8fdc28c172a2de257bc3ef0180a5b477c9d5b9ecf6848294f0abd9dc3ed31b246b78bae143212d467d7c299f80a1221bd6402b38f915544a7410de85fa40832ef648d30a227f38da7cc7673d96dce69fd9c5987d1b17b1bfd75bdaeba62ef65336bb85cde62a0d64896423b0c4e9e836414348cbc9626a148474ef2f66382b480de0925f</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 天際凌鏡 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
