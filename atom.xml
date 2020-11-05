@@ -8,12 +8,102 @@
     <author>
       <name>Bluebear119</name>
     </author>
-    <updated>2020-10-26T02:32:00.000Z</updated>
+    <updated>2020-11-01T07:24:00.000Z</updated>
+    <entry>
+        <id>https://bluebear119.github.io/boardgame/cocwar/cocwarsrule/cocwar_rule/</id>
+        <title>克蘇魯戰爭桌遊遊戲規則</title>
+        <link rel="alternate" href="https://bluebear119.github.io/boardgame/cocwar/cocwarsrule/cocwar_rule/"/>
+        <content type="html">&lt;h1 id=&#34;遊戲設置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#遊戲設置&#34;&gt;#&lt;/a&gt; 遊戲設置&lt;/h1&gt;
+&lt;h2 id=&#34;把地圖放好&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#把地圖放好&#34;&gt;#&lt;/a&gt; 把地圖放好&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;遊戲裡面有兩塊地圖分別為東大陸和西大陸，每一塊大陸都會印有兩面。&lt;/li&gt;
+&lt;li&gt;這兩面的地形是一樣的，但 5 人地圖的地域分佈會比 3 人地圖的地域分佈來的更為仔細。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;+++Primary 二人遊戲的設置&lt;br /&gt;
+ = ABCABC&lt;br /&gt;
++++&lt;/p&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;三人遊戲的設置&lt;/summary&gt;&lt;div&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;ul&gt;
+&lt;li&gt;There are two pieces to the Map (Eastern and Western&lt;br /&gt;
+Hemisphere), each of which is printed on both sides.&lt;br /&gt;
+The two sides have identically-shaped continents, but the&lt;br /&gt;
+5-Player side of the Map is divided into far more Land Areas&lt;br /&gt;
+than is the 3-Player side.&lt;br /&gt;
+2-Player Game: Go to page 39 for instructions on how to&lt;br /&gt;
+set up Cthulhu Wars for 2 players.&lt;br /&gt;
+3-Player Game: Arrange the Map so that both 3-Player&lt;br /&gt;
+hemispheres are face-up. The map will display 13 total&lt;br /&gt;
+Areas.&lt;br /&gt;
+4-Player Game: Arrange the Map such that one 3-Player&lt;br /&gt;
+and one 5-Player hemisphere are face-up&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="精選桌遊" scheme="https://bluebear119.github.io/categories/%E7%B2%BE%E9%81%B8%E6%A1%8C%E9%81%8A/" />
+        <category term="克蘇魯戰爭" scheme="https://bluebear119.github.io/categories/%E7%B2%BE%E9%81%B8%E6%A1%8C%E9%81%8A/%E5%85%8B%E8%98%87%E9%AD%AF%E6%88%B0%E7%88%AD/" />
+        <category term="克蘇魯戰爭遊戲規則" scheme="https://bluebear119.github.io/categories/%E7%B2%BE%E9%81%B8%E6%A1%8C%E9%81%8A/%E5%85%8B%E8%98%87%E9%AD%AF%E6%88%B0%E7%88%AD/%E5%85%8B%E8%98%87%E9%AD%AF%E6%88%B0%E7%88%AD%E9%81%8A%E6%88%B2%E8%A6%8F%E5%89%87/" />
+        <category term="克蘇魯戰爭" scheme="https://bluebear119.github.io/tags/%E5%85%8B%E8%98%87%E9%AD%AF%E6%88%B0%E7%88%AD/" />
+        <updated>2020-11-01T07:24:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://bluebear119.github.io/pathfinder_game/battle_simplify/</id>
+        <title>如何簡單的理解PF的戰鬥規則</title>
+        <link rel="alternate" href="https://bluebear119.github.io/pathfinder_game/battle_simplify/"/>
+        <content type="html">&lt;h1 id=&#34;借機攻擊attacks-of-opportunity&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#借機攻擊attacks-of-opportunity&#34;&gt;#&lt;/a&gt; 借機攻擊 (Attacks of Opportunity)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;解釋：在玩家做了某些動作後會引起敵人成功突破他防線而發動的額外攻擊或者敵人做了某些動作引致玩家成功突破他防線而發動的額外攻擊。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;威脅範圍threatened-sequence&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#威脅範圍threatened-sequence&#34;&gt;#&lt;/a&gt; 威脅範圍 (Threatened Sequence)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;解釋：你發到近戰攻擊可觸及的範圍，不論是否在你回合一樣計算在內。&lt;/li&gt;
+&lt;li&gt;範圍：和你相鄰的格子以及斜向的相鄰格子。&lt;/li&gt;
+&lt;li&gt;徒手攻擊不能當借機攻擊使用，因為沒有威脅範圍。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;長觸及武器reach-weapons&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#長觸及武器reach-weapons&#34;&gt;#&lt;/a&gt; 長觸及武器 (Reach Weapons)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;大多數中型和小型生物只有 5 尺觸及範圍，最多只能打擊到距離他們 5 尺的對手。&lt;/li&gt;
+&lt;li&gt;如果生物有長武 (Reach) 那就可以打到 10 尺範圍裡面的任何生物。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;豁免檢定saving-throw&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#豁免檢定saving-throw&#34;&gt;#&lt;/a&gt; 豁免檢定 (Saving Throw)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;當你受到特殊或成為魔法攻擊目標時，你可以進行一次豁免檢定來免除或是降低因此所受的損害。&lt;/li&gt;
+&lt;li&gt;1D20 + 基本豁免加值 (你職業的相關加值)+ 相關屬性修正&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;強韌fortitude&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#強韌fortitude&#34;&gt;#&lt;/a&gt; 強韌 (Fortitude)&lt;/h2&gt;
+&lt;p&gt;強韌豁免代表了你在抵抗物理損傷、或是直接針對你的健康狀況進行攻擊時，你對其的承受力。強韌豁免加值應用你的體質修正&lt;/p&gt;
+&lt;h2 id=&#34;反射reflex&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#反射reflex&#34;&gt;#&lt;/a&gt; 反射 (Reflex)&lt;/h2&gt;
+&lt;p&gt;反射豁免代表了你依靠技巧躲閃範圍攻擊、或是對於突發狀況的反應能力。反射豁免加值應用你的敏捷修正。&lt;/p&gt;
+&lt;h2 id=&#34;意志will&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#意志will&#34;&gt;#&lt;/a&gt; 意志 (Will)&lt;/h2&gt;
+&lt;p&gt;意志豁免代表了你對抗精神攻擊、以及其他影響你心靈效果的能力。意志豁免加值應用你的感知修正。&lt;/p&gt;
+&lt;h2 id=&#34;豁免dc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#豁免dc&#34;&gt;#&lt;/a&gt; 豁免 DC&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;豁免檢定的難度（DC）會在引發它的效果上標出。&lt;/li&gt;
+&lt;li&gt;豁免的自動成功和失敗：在豁免檢定中自然投骰為 1（即 d20 投骰結果為 1），那麼你的豁免檢定自動失敗（並可能會使你身上攜帶的物品暴露在傷害下）&lt;/li&gt;
+&lt;li&gt;在豁免檢定中自然投骰為 20（即 d20 投骰結果為 20），那麼你的豁免檢定自動成功。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="開拓者遊戲" scheme="https://bluebear119.github.io/categories/pathfinder-game/" />
+        <category term="開拓者遊戲" scheme="https://bluebear119.github.io/tags/%E9%96%8B%E6%8B%93%E8%80%85%E9%81%8A%E6%88%B2/" />
+        <category term="開拓者戰鬥規則" scheme="https://bluebear119.github.io/tags/%E9%96%8B%E6%8B%93%E8%80%85%E6%88%B0%E9%AC%A5%E8%A6%8F%E5%89%87/" />
+        <updated>2020-10-30T02:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://bluebear119.github.io/pathfinder_game/pf_character_build/Labita_wizard_build/</id>
+        <title>拉比特角色卡詳細記錄</title>
+        <link rel="alternate" href="https://bluebear119.github.io/pathfinder_game/pf_character_build/Labita_wizard_build/"/>
+        <content type="html">&lt;h1 id=&#34;已經掌握的1級法術&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#已經掌握的1級法術&#34;&gt;#&lt;/a&gt; 已經掌握的 1 級法術&lt;/h1&gt;
+</content>
+        <category term="開拓者遊戲, 開拓者角色創建, SW2.5職業技能全解析]" scheme="https://bluebear119.github.io/categories/%E9%96%8B%E6%8B%93%E8%80%85%E9%81%8A%E6%88%B2-%E9%96%8B%E6%8B%93%E8%80%85%E8%A7%92%E8%89%B2%E5%89%B5%E5%BB%BA-SW2-5%E8%81%B7%E6%A5%AD%E6%8A%80%E8%83%BD%E5%85%A8%E8%A7%A3%E6%9E%90/" />
+        <category term="開拓者遊戲" scheme="https://bluebear119.github.io/tags/%E9%96%8B%E6%8B%93%E8%80%85%E9%81%8A%E6%88%B2/" />
+        <category term="開拓者角色創建" scheme="https://bluebear119.github.io/tags/%E9%96%8B%E6%8B%93%E8%80%85%E8%A7%92%E8%89%B2%E5%89%B5%E5%BB%BA/" />
+        <updated>2020-10-30T02:00:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://bluebear119.github.io/swordworld_25/character_creating_extra_guide/Skill_Explian_Guide/Battle_skill/</id>
         <title>戰鬥特技詳細解析</title>
         <link rel="alternate" href="https://bluebear119.github.io/swordworld_25/character_creating_extra_guide/Skill_Explian_Guide/Battle_skill/"/>
-        <content type="html">&lt;p&gt;詳細請參考規則書『I』 ⇒ 277 頁&lt;/p&gt;
+        <content type="html">&lt;p&gt;詳細請參考規則書『I』 ⇒ 277 頁&lt;br /&gt;
+ p/s: 推薦新手選擇系列&lt;/p&gt;
 &lt;h1 id=&#34;戰鬥特技-常時特技&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#戰鬥特技-常時特技&#34;&gt;#&lt;/a&gt; 戰鬥特技 - 常時特技&lt;/h1&gt;
 &lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;《閃避》／《かいくぐり》&lt;/summary&gt;&lt;div&gt;
 &lt;ul&gt;
@@ -55,6 +145,17 @@
 &lt;li&gt;使用：-&lt;/li&gt;
 &lt;li&gt;概要：可以對複數目標進行命中力判定&lt;/li&gt;
 &lt;li&gt;效果：使用《左右開弓》進行 2 次攻擊時，在確認了第 1 次攻擊的結果後，可以再對同一目標進行攻擊，或選擇其他目標進行攻擊。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;details class=&#34;warning&#34;&gt;&lt;summary&gt;《左右開弓》／《両手利き》&lt;/summary&gt;&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;前提:	-&lt;/li&gt;
+&lt;li&gt;使用: -&lt;/li&gt;
+&lt;li&gt;概要：可在雙手裝備 2 把單手武器&lt;/li&gt;
+&lt;li&gt;效果：可在雙手分別裝備 2 把力需在 20 以下、「用法：1H (不能為 1H#)」的武器，在 1 回合的主動作裏，分別用左右手各進行 1 次攻擊。&lt;/li&gt;
+&lt;li&gt;此時，雙手的攻擊都會受到 -2 的懲罰修正。&lt;/li&gt;
+&lt;li&gt;可隨意決意哪隻手先進攻，也可以雙手各用不同的戰士系技能進行命中力判定和決定傷害。&lt;/li&gt;
+&lt;li&gt;雖然不能分別攻擊不同的目標，但可以在確認了第 1 次攻擊的結果後，中止第 2 次的攻擊。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;&lt;/details&gt;
 &lt;details class=&#34;info&#34;&gt;&lt;summary&gt;《投擲 I》／《スローイング I》&lt;/summary&gt;&lt;div&gt;
@@ -119,6 +220,68 @@
 &lt;li&gt;使用：鍊金術師技能&lt;/li&gt;
 &lt;li&gt;概要：賦術判定 +1&lt;/li&gt;
 &lt;li&gt;效果：行使賦術時，所有賦術判定的達成值受到 +1 的獎勵修正。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;details class=&#34;danger&#34;&gt;&lt;summary&gt;《阻擋》／《ブロッキング》&lt;/summary&gt;&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;前提：冒險者等級 3 以上&lt;/li&gt;
+&lt;li&gt;使用: ─&lt;/li&gt;
+&lt;li&gt;概要：進行移動妨礙或脫離準備時，把自己當作是 2 倍的角色數&lt;/li&gt;
+&lt;li&gt;效果：在要進行移動妨礙或要從混戰區域脫離時，自己可視為有 2 倍的角色數 (倍位數)。也就是說，在自己移動時、友方角色通過不了混戰區域而要脫離時、要對敵對角色進行移動妨礙時、敵對角色要脫離混戰區域時，都會被這特技所影響。&lt;/li&gt;
+&lt;li&gt;另外，在基本戰鬥裏，戰鬥準備時只要配置到了前線，不論先攻後攻，自己也會視為有着 2 倍的角色數 (部位數)。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;《防具熟習 A／ **》／《防具習熟 A／ **》&lt;/summary&gt;&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;前提:	─&lt;/li&gt;
+&lt;li&gt;使用: ─&lt;/li&gt;
+&lt;li&gt;概要：對應類別的防具防護點 +1，可以裝備 A 階防具&lt;/li&gt;
+&lt;li&gt;效果：可選擇《金屬鎧》《盾》等其中一種防具。當裝備此類別的防具時，防護點常時 +1。&lt;/li&gt;
+&lt;li&gt;可裝備所選擇類別的 A 階防具。&lt;/li&gt;
+&lt;li&gt;使用其他欄位可習得其他類別的防具。此情況下，當同時裝備了這些類別的防具的時候，防護點的上升可以累積。&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;戰鬥特技-宣言特技&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#戰鬥特技-宣言特技&#34;&gt;#&lt;/a&gt; 戰鬥特技 - 宣言特技&lt;/h1&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;《陷阱攻擊 I》／《囮攻撃 I》&lt;/summary&gt;&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;前提：─&lt;/li&gt;
+&lt;li&gt;使用:	─&lt;/li&gt;
+&lt;li&gt;適用:	1 次接近攻擊&lt;/li&gt;
+&lt;li&gt;代價:	─&lt;/li&gt;
+&lt;li&gt;概要：命中力判定 -2，傷害 +2，成功回避的敵人回避力判定 -1&lt;/li&gt;
+&lt;li&gt;效果:	以「打中當然好，但打不中也要吸引敵人的注意力，協助隊友攻擊」為目標，用誇張的大動作進行攻擊。&lt;/li&gt;
+&lt;li&gt;此特技要在進行接近攻擊時宣言，僅限該次攻擊有效。不能在能對複數目標進行攻擊時宣言此特技。&lt;/li&gt;
+&lt;li&gt;雖然命中力判定會受到 -2 的懲罰修正，但命中時的傷害會 +2。&lt;/li&gt;
+&lt;li&gt;宣言了特技的那次攻擊被目標回避的話，該目標在接下來的 10 秒 (1 回合) 內，回避力判定都會受到 -1 的懲罰修正。這效果會累積至最多 -4，並只要目標出現了哪怕是 1 次回避失敗時，該效果都會即時消失。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;details class=&#34;success&#34;&gt;&lt;summary&gt;《樂素轉換》／《楽素転換》&lt;/summary&gt;&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;前提：吟遊詩人技能等級 3 以上&lt;/li&gt;
+&lt;li&gt;適用： 一瞬&lt;/li&gt;
+&lt;li&gt;使用: -&lt;/li&gt;
+&lt;li&gt;概要：轉換 1 個已生成的樂素&lt;/li&gt;
+&lt;li&gt;效果：可以在回合中任意時機宣言此特技。宣言了此特技時，立即在任何累積數量「1」以上的樂素中選擇 1 種，然後將其累積量 -1。同時，將任意 1 個其他類型的樂素的累積量 +1。&lt;/li&gt;
+&lt;li&gt;至於有效果生效條件的咒歌會否因此受到影響，則視乎演奏判定的時機。當判定後使用此特技轉換樂素後，即使滿足了條件，效果仍不會生效。&lt;/li&gt;
+&lt;li&gt;相反，在效果生效後，即使用此特技轉換了樂素，以致樂素量未能滿足條件，效果仍不會失效。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;details class=&#34;warning&#34;&gt;&lt;summary&gt;△《掩護 I》／△《かぼう I》&lt;/summary&gt;&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;前提: -&lt;/li&gt;
+&lt;li&gt;適用：持續 10 秒 (1 回合)&lt;/li&gt;
+&lt;li&gt;使用: -&lt;/li&gt;
+&lt;li&gt;概要：代為承受針對隊友的攻擊&lt;/li&gt;
+&lt;li&gt;效果：在宣言這個特技時，指定任意一名角色，但該角色不同意的話則不能指定。&lt;/li&gt;
+&lt;li&gt;在接下來的 10 秒 (1 回合) 內，當該角色被接近攻擊、遠程攻擊、及其他有接近攻擊或遠程攻擊效果的特殊能力 (有「回避力判定／消滅」 的特性的) 指定為目標時，宣言特技者會代為承受。為使這個效果生效，宣言者必須與想保護的目標身處同一區域。&lt;/li&gt;
+&lt;li&gt;效果生效時，宣言了《掩護》的角色會立即計算受到的傷害。在攻擊命中或造成傷害時，有隨此生效的效果的話 (如攻擊命中時目標會受到毒傷害等)，宣言者會連那些效果一起承受。不能使用回避力判定。&lt;/li&gt;
+&lt;li&gt;在想保護的目標被多人狙擊時，《掩護》的效果只會 1 回合發揮 1 次，並自動適用於第 1 次攻擊。&lt;/li&gt;
+&lt;li&gt;特殊註釋：能代替別人承受攻擊的《掩護》，是頗特殊的戰鬥特技。在這裏將會進行補充說明。&lt;/li&gt;
+&lt;li&gt;01：&lt;strong&gt;《掩護》並不能幫別人掩護不能用回避力判定的魔法和特殊能力&lt;/strong&gt;。&lt;strong&gt;同時&lt;/strong&gt;指定宣言者和被《掩護》指定的目標的攻擊，在原則上也&lt;strong&gt;不能使用《掩護》&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;02: 在能多次宣言特技時，不能在 1 回合內多次宣言《掩護》，對多名角色進行掩護。&lt;/li&gt;
+&lt;li&gt;03:《掩護》的效果生效並不會改變攻擊的對象。因此，部分特技如《追加攻擊》等，可以再次進行攻擊的時候，對向原本瞄準的目標攻擊，而不是宣言了《掩護》的人。&lt;/li&gt;
+&lt;li&gt;04: 用《左右開弓》進行 2 次攻擊時，《掩護》的效果只會生效 1 次，另外 1 次則仍會向原本目標攻擊。&lt;/li&gt;
+&lt;li&gt;05: 部分魔物所持有的「◯連續攻擊」也同樣，對宣言者造成傷害後，再對原本的攻擊對象進行追加攻擊。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;&lt;/details&gt;
 </content>
