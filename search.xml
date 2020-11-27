@@ -51,6 +51,13 @@
 <li>豁免的自動成功和失敗：在豁免檢定中自然投骰為 1（即 d20 投骰結果為 1），那麼你的豁免檢定自動失敗（並可能會使你身上攜帶的物品暴露在傷害下）</li>
 <li>在豁免檢定中自然投骰為 20（即 d20 投骰結果為 20），那麼你的豁免檢定自動成功。</li>
 </ul>
+<h1 id="戰鬥中可以進行的動作actions-in-combat"><a class="anchor" href="#戰鬥中可以進行的動作actions-in-combat">#</a> 戰鬥中可以進行的動作 (Actions in Combat)</h1>
+<h1 id="動作類型"><a class="anchor" href="#動作類型">#</a> 動作類型</h1>
+<h2 id="標準動作"><a class="anchor" href="#標準動作">#</a> 標準動作</h2>
+<ul>
+<li>防禦式施法</li>
+<li></li>
+</ul>
 ]]></content>
       <categories>
         <category>開拓者遊戲</category>
@@ -69,26 +76,15 @@
 <li>遊戲裡面有兩塊地圖分別為東大陸和西大陸，每一塊大陸都會印有兩面。</li>
 <li>這兩面的地形是一樣的，但 5 人地圖的地域分佈會比 3 人地圖的地域分佈來的更為仔細。</li>
 </ul>
-<p>+++Primary 二人遊戲的設置<br />
-一段內容<br />
- +++</p>
-<details class="info"><summary>三人遊戲的設置</summary><div>
+<details class="primary"><summary>二人遊戲的設置</summary><div>
 <p>一段內容</p>
 </div></details>
-<ul>
-<li>There are two pieces to the Map (Eastern and Western<br />
-Hemisphere), each of which is printed on both sides.<br />
-The two sides have identically-shaped continents, but the<br />
-5-Player side of the Map is divided into far more Land Areas<br />
-than is the 3-Player side.<br />
-2-Player Game: Go to page 39 for instructions on how to<br />
-set up Cthulhu Wars for 2 players.<br />
-3-Player Game: Arrange the Map so that both 3-Player<br />
-hemispheres are face-up. The map will display 13 total<br />
-Areas.<br />
-4-Player Game: Arrange the Map such that one 3-Player<br />
-and one 5-Player hemisphere are face-up</li>
-</ul>
+<details class="info"><summary>三人遊戲的設置</summary><div>
+<p>Arrange the Map so that both 3-Player hemispheres are face-up. The map will display 13 total Areas.</p>
+</div></details>
+<details class="success"><summary>四人遊戲的設置</summary><div>
+<p>Arrange the Map such that one 3-Player and one 5-Player hemisphere are face-up</p>
+</div></details>
 ]]></content>
       <categories>
         <category>精選桌遊</category>
@@ -324,10 +320,29 @@ and one 5-Player hemisphere are face-up</li>
 <li>在想保護的目標被多人狙擊時，《掩護》的效果只會 1 回合發揮 1 次，並自動適用於第 1 次攻擊。</li>
 <li>特殊註釋：能代替別人承受攻擊的《掩護》，是頗特殊的戰鬥特技。在這裏將會進行補充說明。</li>
 <li>01：<strong>《掩護》並不能幫別人掩護不能用回避力判定的魔法和特殊能力</strong>。<strong>同時</strong>指定宣言者和被《掩護》指定的目標的攻擊，在原則上也<strong>不能使用《掩護》</strong>。</li>
-<li>02: 在能多次宣言特技時，不能在 1 回合內多次宣言《掩護》，對多名角色進行掩護。</li>
+<li>02: 在能多次宣言特技時，不能在 1 回合內多次宣言《掩護》，對多名角色進行掩護。帶有《守護》技能的角色則可宣言同時掩護多名角色。</li>
 <li>03:《掩護》的效果生效並不會改變攻擊的對象。因此，部分特技如《追加攻擊》等，可以再次進行攻擊的時候，對向原本瞄準的目標攻擊，而不是宣言了《掩護》的人。</li>
 <li>04: 用《左右開弓》進行 2 次攻擊時，《掩護》的效果只會生效 1 次，另外 1 次則仍會向原本目標攻擊。</li>
 <li>05: 部分魔物所持有的「◯連續攻擊」也同樣，對宣言者造成傷害後，再對原本的攻擊對象進行追加攻擊。</li>
+<li>宣言者與隊友的關係：基本戰鬥基本上處於同一個區域，在高級戰鬥裡面其所劃分如下，該規則會與限制移動的範圍相同：
+<ul>
+<li>如果宣言者處於混戰狀態，則指定角色必須位於混戰區域。效果：一位指定的角色</li>
+<li>如果宣言者處於獨立狀態，則宣言者需要通過限制移動到可到達範圍裡掩護混戰區域的角色。</li>
+<li>如果宣言者處於混戰區之外，則宣言者需要通過限制移動到可到達範圍裡進行掩護不處於混戰區域的角色。</li>
+</ul>
+</li>
+</ul>
+</div></details>
+<details class="danger"><summary>《回斬 I》／《斬り返し I》</summary><div>
+<ul>
+<li>前提: -</li>
+<li>適用： 1 次接近攻擊</li>
+<li>使用：戰士或輕戰士技能 &amp; 2H 近戰武器</li>
+<li>概要：攻擊被回避時，可追加再進行攻擊</li>
+<li>效果：在使用「用法：2H」的武器進行接近攻擊時宣言，僅限該次攻擊有效.</li>
+<li>宣言了特技的那次攻擊被目標回避的話，可立即用同一把武器對同一個目標再進行接近攻擊 1 次。</li>
+<li>第 1 次攻擊就命中的話，則不會進行第 2 次攻擊。</li>
+<li>同時攻擊多個目標時，有哪個目標回避了攻擊的話，就可對所有回避了的目標再進行 1 次命中力判定。無論是第 1 次還是第 2 次攻擊，只要命中了，就對命中的目標逐個決定傷害。</li>
 </ul>
 </div></details>
 ]]></content>
