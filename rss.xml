@@ -95,7 +95,40 @@
             <category term="開拓者遊戲" scheme="https://bluebear119.github.io/tags/%E9%96%8B%E6%8B%93%E8%80%85%E9%81%8A%E6%88%B2/" />
             <category term="開拓者角色創建" scheme="https://bluebear119.github.io/tags/%E9%96%8B%E6%8B%93%E8%80%85%E8%A7%92%E8%89%B2%E5%89%B5%E5%BB%BA/" />
             <pubDate>Fri, 30 Oct 2020 10:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;已經掌握的1級法術&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#已經掌握的1級法術&#34;&gt;#&lt;/a&gt; 已經掌握的 1 級法術&lt;/h1&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;基本資料&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本資料&#34;&gt;#&lt;/a&gt; 基本資料&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;角色名字：拉比特。伊諾 種族：精靈 體型：中等&lt;/li&gt;
+&lt;li&gt;角色等級：5&lt;/li&gt;
+&lt;li&gt;屬性數值
+&lt;ul&gt;
+&lt;li&gt;力量：8&lt;/li&gt;
+&lt;li&gt;敏捷：12 +2 (種族特性)&lt;/li&gt;
+&lt;li&gt;體質：12 -2 (種族特性)&lt;/li&gt;
+&lt;li&gt;智力：18 +2 (種族特性) +2&lt;/li&gt;
+&lt;li&gt;感知：12&lt;/li&gt;
+&lt;li&gt;魅力：8&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;生命數值：21&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;種族特性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#種族特性&#34;&gt;#&lt;/a&gt; 種族特性&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;精靈免疫：免疫魔法睡眠效果，對抗惑控系法術 / 效果，&lt;strong&gt;豁免檢定&lt;/strong&gt;獲得 + 2 種族加值&lt;/li&gt;
+&lt;li&gt;速度：30 尺&lt;/li&gt;
+&lt;li&gt;昏暗視覺&lt;/li&gt;
+&lt;li&gt;精靈在克服法術抗力施法者等級檢定獲得 + 2 種族加值 (SR +2)&lt;/li&gt;
+&lt;li&gt;察覺檢定 +2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;角色介紹&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#角色介紹&#34;&gt;#&lt;/a&gt; 角色介紹&lt;/h2&gt;
+&lt;p&gt;拉比特。伊諾【精靈】是塔爾多的某個小鎮的圖書館管理員，平常時間都在讀書館裡研究魔法，但有時為了生計。偶然也會出遠門參加自己所屬傭兵團可執行的任務。&lt;/p&gt;
+&lt;h1 id=&#34;已經掌握的1級法術&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#已經掌握的1級法術&#34;&gt;#&lt;/a&gt; 已經掌握的 1 級法術&lt;/h1&gt;
+&lt;h1 id=&#34;技能檢定&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#技能檢定&#34;&gt;#&lt;/a&gt; 技能檢定&lt;/h1&gt;
+&lt;p&gt;技能 總共 屬性 級數 雜項&lt;/p&gt;
+&lt;h1 id=&#34;等級5-資料記錄&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#等級5-資料記錄&#34;&gt;#&lt;/a&gt; 等級 5 資料記錄&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;選擇一項獎勵專長：Spell Mastery&lt;/li&gt;
+&lt;li&gt;TESTTEST&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
