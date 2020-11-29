@@ -1,177 +1,421 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>克蘇魯戰爭桌遊遊戲規則</title>
-      <link href="boardgame/cocwar/cocwarsrule/cocwar_rule/"/>
-      <url>boardgame/cocwar/cocwarsrule/cocwar_rule/</url>
-      
-        <content type="html"><![CDATA[<h1 id="遊戲設置"><a class="anchor" href="#遊戲設置">#</a> 遊戲設置</h1><h2 id="把地圖放好"><a class="anchor" href="#把地圖放好">#</a> 把地圖放好</h2><ul><li>遊戲裡面有兩塊地圖分別為東大陸和西大陸，每一塊大陸都會印有兩面。</li><li>這兩面的地形是一樣的，但 5 人地圖的地域分佈會比 3 人地圖的地域分佈來的更為仔細。</li></ul><details class="primary"><summary>二人遊戲的設置</summary><div><p>一段內容</p></div></details><details class="info"><summary>三人遊戲的設置</summary><div><p>Arrange the Map so that both 3-Player hemispheres are face-up. The map will display 13 total Areas.</p></div></details><details class="success"><summary>四人遊戲的設置</summary><div><p>Arrange the Map such that one 3-Player and one 5-Player hemisphere are face-up</p></div></details>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>天際凌鏡 - 帝納浮島導航系統</title>
+    <url>/prismisland/</url>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">如果你知道浮士德傾情的神座能否告訴我呢?</label>
+    <div class="bottom-line"></div>
+  </div>
+  <script id="hbeData" type="hbeData" data-hmacdigest="403cbcd78997e0bea8d266428c77266b078da382c2a616428f1ba8ada30d2b87">a29f8a013c6a3a958f39696893b911fba02e2324b5b8d33f6af2aa35c053f709c896ded1ca9e0f563d800c0d015d1867ef7d8363259110094d39210b84fe43c4afb5ecc644a5be218194ca236354a264c671a9e15eef133e95ebc01fbb2f01c76a947de5b0c93e00143712445795f06cd499fe46d5b3eab00d734b6099a67f4d84c3a72329f5f91600b13540a5ddff4b0dd97df9d5946e8992542c7dba8a060e90f881bb64a1805bda00a2b8ef515b13d711958df37858d9edc056acec13205bf2eafbf1d7d3b6c88a5fbcbb4b5f856127aad6b0d532d9ab0b688e497f859a6b71ea952448f321209fff5baacd67529ac8f63ca0f39412a9425339b9ccdf89f491d6f8d523fa8ba3935c477dfe5aefde4fd8b29aa26a5b955bda742eb9f35ea3d5e67aaa4230929bcf438b3f1f8e1a7f972cd0b2c0babd40181ba4558dc385de384376b34cec500683aa49381ee8bb8ebc252495b49952cf74b77ea20c1dba99344d0d617e0d3c686369f6f16b6115b9e7adc54213119426f1d376ba01eb83d8b19c4654a5f6de024992efd23dfbbe73c9b59ca3bbf681fb43c5d446e3b62189bcb270d3e09d63828eb27417762f607148b1777a050965bca09b44f449bf06c0a344dc01ffa71f6f4df89d8d9d21785b3762c0232fa12c6210d7dcc217c1697e93fcbdcb4fd231256c97271ea39fbebc8f25ffd5218c5833bdb06968972691d0f646565158c74241e47cb73a8153a3edd65024dd75e978587a73af7ff04d45eb52baa8b564af4d4e474457b54cfda7e4c03c508582fba26f0af8fcc52b8c032e5dd01bacf46740ee4ee0852d1b9ee56b938f19c34efffd47979d0eb09e797bd902a2fe6c27c69d960ef8b828dc67830fc018896bdd7fc41564f4565c321518ddb6049e1393d1375c8b98757eaf65415a46870d7bd299257a23cef4644a9e725c7923e0da9f59e02e60cfd86fadd9dcf12098fc4a8a7a3e78f101c0c5c008c6320053ccff96f6823c20774db811ce5e4adfc5c5a7bb611e042b1f348cea6835bfe6d906040a396f3f9ceae61a21c4663f70b779694adaa8f7b1894636ef9ca62ad624c1b72943d7d2b07c74ca690525b68e66545aed5e4847a6f279ec6436a0194f1a9707e6408f40796a16a696ff4db2fdd41fb3d6675b7a68038f058e57c761e4b8a67134c04306bbd885730cea336bad839382854417706c5f9e2e4f551b7219e39e21cdcc3b8ab3ff67779a093a78</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>天際凌鏡</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何簡單的理解PF的戰鬥規則</title>
+    <url>/pathfinder_game/battle_simplify/</url>
+    <content><![CDATA[<h1 id="借機攻擊attacks-of-opportunity"><a class="anchor" href="#借機攻擊attacks-of-opportunity">#</a> 借機攻擊 (Attacks of Opportunity)</h1>
+<ul>
+<li>解釋：在玩家做了某些動作後會引起敵人成功突破他防線而發動的額外攻擊或者敵人做了某些動作引致玩家成功突破他防線而發動的額外攻擊。</li>
+</ul>
+<h2 id="威脅範圍threatened-sequence"><a class="anchor" href="#威脅範圍threatened-sequence">#</a> 威脅範圍 (Threatened Sequence)</h2>
+<ul>
+<li>解釋：你發到近戰攻擊可觸及的範圍，不論是否在你回合一樣計算在內。</li>
+<li>範圍：和你相鄰的格子以及斜向的相鄰格子。</li>
+<li>徒手攻擊不能當借機攻擊使用，因為沒有威脅範圍。</li>
+</ul>
+<h2 id="長觸及武器reach-weapons"><a class="anchor" href="#長觸及武器reach-weapons">#</a> 長觸及武器 (Reach Weapons)</h2>
+<ul>
+<li>大多數中型和小型生物只有 5 尺觸及範圍，最多只能打擊到距離他們 5 尺的對手。</li>
+<li>如果生物有長武 (Reach) 那就可以打到 10 尺範圍裡面的任何生物。</li>
+</ul>
+<h1 id="豁免檢定saving-throw"><a class="anchor" href="#豁免檢定saving-throw">#</a> 豁免檢定 (Saving Throw)</h1>
+<ul>
+<li>當你受到特殊或成為魔法攻擊目標時，你可以進行一次豁免檢定來免除或是降低因此所受的損害。</li>
+<li>1D20 + 基本豁免加值 (你職業的相關加值)+ 相關屬性修正</li>
+</ul>
+<h2 id="強韌fortitude"><a class="anchor" href="#強韌fortitude">#</a> 強韌 (Fortitude)</h2>
+<p>強韌豁免代表了你在抵抗物理損傷、或是直接針對你的健康狀況進行攻擊時，你對其的承受力。強韌豁免加值應用你的體質修正</p>
+<h2 id="反射reflex"><a class="anchor" href="#反射reflex">#</a> 反射 (Reflex)</h2>
+<p>反射豁免代表了你依靠技巧躲閃範圍攻擊、或是對於突發狀況的反應能力。反射豁免加值應用你的敏捷修正。</p>
+<h2 id="意志will"><a class="anchor" href="#意志will">#</a> 意志 (Will)</h2>
+<p>意志豁免代表了你對抗精神攻擊、以及其他影響你心靈效果的能力。意志豁免加值應用你的感知修正。</p>
+<h2 id="豁免dc"><a class="anchor" href="#豁免dc">#</a> 豁免 DC</h2>
+<ul>
+<li>豁免檢定的難度（DC）會在引發它的效果上標出。</li>
+<li>豁免的自動成功和失敗：在豁免檢定中自然投骰為 1（即 d20 投骰結果為 1），那麼你的豁免檢定自動失敗（並可能會使你身上攜帶的物品暴露在傷害下）</li>
+<li>在豁免檢定中自然投骰為 20（即 d20 投骰結果為 20），那麼你的豁免檢定自動成功。</li>
+</ul>
+<h1 id="戰鬥中可以進行的動作actions-in-combat"><a class="anchor" href="#戰鬥中可以進行的動作actions-in-combat">#</a> 戰鬥中可以進行的動作 (Actions in Combat)</h1>
+<h1 id="動作類型"><a class="anchor" href="#動作類型">#</a> 動作類型</h1>
+<h2 id="標準動作"><a class="anchor" href="#標準動作">#</a> 標準動作</h2>
+<ul>
+<li>防禦式施法</li>
+<li></li>
+</ul>
+]]></content>
       <categories>
-          
-          <category> 精選桌遊 </category>
-          
-          <category> 克蘇魯戰爭 </category>
-          
-          <category> 克蘇魯戰爭遊戲規則 </category>
-          
+        <category>開拓者遊戲</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 克蘇魯戰爭 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>如何簡單的理解PF的戰鬥規則</title>
-      <link href="pathfinder_game/battle_simplify/"/>
-      <url>pathfinder_game/battle_simplify/</url>
-      
-        <content type="html"><![CDATA[<h1 id="借機攻擊attacks-of-opportunity"><a class="anchor" href="#借機攻擊attacks-of-opportunity">#</a> 借機攻擊 (Attacks of Opportunity)</h1><ul><li>解釋：在玩家做了某些動作後會引起敵人成功突破他防線而發動的額外攻擊或者敵人做了某些動作引致玩家成功突破他防線而發動的額外攻擊。</li></ul><h2 id="威脅範圍threatened-sequence"><a class="anchor" href="#威脅範圍threatened-sequence">#</a> 威脅範圍 (Threatened Sequence)</h2><ul><li>解釋：你發到近戰攻擊可觸及的範圍，不論是否在你回合一樣計算在內。</li><li>範圍：和你相鄰的格子以及斜向的相鄰格子。</li><li>徒手攻擊不能當借機攻擊使用，因為沒有威脅範圍。</li></ul><h2 id="長觸及武器reach-weapons"><a class="anchor" href="#長觸及武器reach-weapons">#</a> 長觸及武器 (Reach Weapons)</h2><ul><li>大多數中型和小型生物只有 5 尺觸及範圍，最多只能打擊到距離他們 5 尺的對手。</li><li>如果生物有長武 (Reach) 那就可以打到 10 尺範圍裡面的任何生物。</li></ul><h1 id="豁免檢定saving-throw"><a class="anchor" href="#豁免檢定saving-throw">#</a> 豁免檢定 (Saving Throw)</h1><ul><li>當你受到特殊或成為魔法攻擊目標時，你可以進行一次豁免檢定來免除或是降低因此所受的損害。</li><li>1D20 + 基本豁免加值 (你職業的相關加值)+ 相關屬性修正</li></ul><h2 id="強韌fortitude"><a class="anchor" href="#強韌fortitude">#</a> 強韌 (Fortitude)</h2><p>強韌豁免代表了你在抵抗物理損傷、或是直接針對你的健康狀況進行攻擊時，你對其的承受力。強韌豁免加值應用你的體質修正</p><h2 id="反射reflex"><a class="anchor" href="#反射reflex">#</a> 反射 (Reflex)</h2><p>反射豁免代表了你依靠技巧躲閃範圍攻擊、或是對於突發狀況的反應能力。反射豁免加值應用你的敏捷修正。</p><h2 id="意志will"><a class="anchor" href="#意志will">#</a> 意志 (Will)</h2><p>意志豁免代表了你對抗精神攻擊、以及其他影響你心靈效果的能力。意志豁免加值應用你的感知修正。</p><h2 id="豁免dc"><a class="anchor" href="#豁免dc">#</a> 豁免 DC</h2><ul><li>豁免檢定的難度（DC）會在引發它的效果上標出。</li><li>豁免的自動成功和失敗：在豁免檢定中自然投骰為 1（即 d20 投骰結果為 1），那麼你的豁免檢定自動失敗（並可能會使你身上攜帶的物品暴露在傷害下）</li><li>在豁免檢定中自然投骰為 20（即 d20 投骰結果為 20），那麼你的豁免檢定自動成功。</li></ul><h1 id="戰鬥中可以進行的動作actions-in-combat"><a class="anchor" href="#戰鬥中可以進行的動作actions-in-combat">#</a> 戰鬥中可以進行的動作 (Actions in Combat)</h1><h1 id="動作類型"><a class="anchor" href="#動作類型">#</a> 動作類型</h1><h2 id="標準動作"><a class="anchor" href="#標準動作">#</a> 標準動作</h2><ul><li>防禦式施法</li><li></li></ul>]]></content>
-      
-      
+      <tags>
+        <tag>開拓者遊戲</tag>
+        <tag>開拓者戰鬥規則</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何使用OTCGN來玩詭鎮奇談(Arkham Horror LCG)</title>
+    <url>/boardgame/ahlcg/OTCGN_AH_Intro/</url>
+    <content><![CDATA[<h1 id="otcgn介紹"><a class="anchor" href="#otcgn介紹">#</a> OTCGN 介紹</h1>
+<p><span class="exturl" data-url="aHR0cDovL3d3dy5vY3Rnbi5uZXQvSG9tZS9HZXRPY3Rnbg==">http://www.octgn.net/Home/GetOctgn</span></p>
+<h1 id="安裝過程"><a class="anchor" href="#安裝過程">#</a> 安裝過程</h1>
+<h2 id="下載octgn"><a class="anchor" href="#下載octgn">#</a> 下載 OCTGN</h2>
+<h2 id="安裝-arkham-horrorthe-card-game-definition"><a class="anchor" href="#安裝-arkham-horrorthe-card-game-definition">#</a> 安裝 Arkham Horror:The Card Game Definition</h2>
+<p>一旦你安裝好 OTCGN 之後，你就可以打開這個軟件，選擇 Games Manager，找到 Arkham Horror:The Card Game Definition 後，點擊安裝，之後 OTCGN 就會直接自動替你安裝好這個桌遊。</p>
+<p><img data-src="https://i.ibb.co/nm4QBYd/Snipaste-2020-11-30-05-53-24.webp" alt="" /></p>
+<p>但是，安裝好的桌遊並不包含遊戲圖片文件，這時候你需要到這個<span class="exturl" data-url="aHR0cHM6Ly9haGxjZ29jdGduLndvcmRwcmVzcy5jb20vaW1hZ2UtcGFja3Mv">頁面</span>去下載相關的圖片包</p>
+<h2 id="安裝圖片包"><a class="anchor" href="#安裝圖片包">#</a> 安裝圖片包</h2>
+<p><img data-src="https://i.ibb.co/jWHxCcc/Snipaste-2020-11-30-06-03-08.webp" alt="" /></p>
+]]></content>
       <categories>
-          
-          <category> 開拓者遊戲 </category>
-          
+        <category>桌遊</category>
+        <category>詭鎮奇談</category>
+        <category>詭鎮奇談教學系列</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 開拓者遊戲 </tag>
-            
-            <tag> 開拓者戰鬥規則 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>拉比特角色卡詳細記錄</title>
-      <link href="pathfinder_game/pf_character_build/Labita_wizard_build/"/>
-      <url>pathfinder_game/pf_character_build/Labita_wizard_build/</url>
-      
-        <content type="html"><![CDATA[<h1 id="基本資料"><a class="anchor" href="#基本資料">#</a> 基本資料</h1><ul><li>角色名字：拉比特。伊諾 種族：精靈 體型：中等</li><li>角色等級：5</li><li>屬性數值<ul><li>力量：8</li><li>敏捷：12 +2 (種族特性)</li><li>體質：12 -2 (種族特性)</li><li>智力：18 +2 (種族特性) +2</li><li>感知：12</li><li>魅力：8</li></ul></li><li>生命數值：21</li></ul><h1 id="種族特性"><a class="anchor" href="#種族特性">#</a> 種族特性</h1><ul><li>精靈免疫：免疫魔法睡眠效果，對抗惑控系法術 / 效果，<strong>豁免檢定</strong>獲得 + 2 種族加值</li><li>速度：30 尺</li><li>昏暗視覺</li><li>精靈在克服法術抗力施法者等級檢定獲得 + 2 種族加值 (SR +2)</li><li>察覺檢定 +2</li></ul><h2 id="角色介紹"><a class="anchor" href="#角色介紹">#</a> 角色介紹</h2><p>拉比特。伊諾【精靈】是塔爾多的某個小鎮的圖書館管理員，平常時間都在讀書館裡研究魔法，但有時為了生計。偶然也會出遠門參加自己所屬傭兵團可執行的任務。</p><h1 id="已經掌握的1級法術"><a class="anchor" href="#已經掌握的1級法術">#</a> 已經掌握的 1 級法術</h1><h1 id="技能檢定"><a class="anchor" href="#技能檢定">#</a> 技能檢定</h1><p>技能 總共 屬性 級數 雜項</p><h1 id="等級5-資料記錄"><a class="anchor" href="#等級5-資料記錄">#</a> 等級 5 資料記錄</h1><ul><li>選擇一項獎勵專長：Spell Mastery</li><li>TESTTEST</li></ul>]]></content>
-      
-      
+      <tags>
+        <tag>桌遊</tag>
+        <tag>詭鎮奇談</tag>
+        <tag>詭鎮奇談教學系列</tag>
+        <tag>OTCGN</tag>
+        <tag>Arkham Horror LCG</tag>
+        <tag>桌遊教學</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>拉比特角色卡詳細記錄</title>
+    <url>/pathfinder_game/pf_character_build/Labita_wizard_build/</url>
+    <content><![CDATA[<h1 id="基本資料"><a class="anchor" href="#基本資料">#</a> 基本資料</h1>
+<ul>
+<li>角色名字：拉比特。伊諾 種族：精靈 體型：中等</li>
+<li>角色等級：5</li>
+<li>屬性數值
+<ul>
+<li>力量：8</li>
+<li>敏捷：12 +2 (種族特性)</li>
+<li>體質：12 -2 (種族特性)</li>
+<li>智力：18 +2 (種族特性) +2</li>
+<li>感知：12</li>
+<li>魅力：8</li>
+</ul>
+</li>
+<li>生命數值：21</li>
+</ul>
+<h1 id="種族特性"><a class="anchor" href="#種族特性">#</a> 種族特性</h1>
+<ul>
+<li>精靈免疫：免疫魔法睡眠效果，對抗惑控系法術 / 效果，<strong>豁免檢定</strong>獲得 + 2 種族加值</li>
+<li>速度：30 尺</li>
+<li>昏暗視覺</li>
+<li>精靈在克服法術抗力施法者等級檢定獲得 + 2 種族加值 (SR +2)</li>
+<li>察覺檢定 +2</li>
+</ul>
+<h2 id="角色介紹"><a class="anchor" href="#角色介紹">#</a> 角色介紹</h2>
+<p>拉比特。伊諾【精靈】是塔爾多的某個小鎮的圖書館管理員，平常時間都在讀書館裡研究魔法，但有時為了生計。偶然也會出遠門參加自己所屬傭兵團可執行的任務。</p>
+<h1 id="已經掌握的1級法術"><a class="anchor" href="#已經掌握的1級法術">#</a> 已經掌握的 1 級法術</h1>
+<h1 id="技能檢定"><a class="anchor" href="#技能檢定">#</a> 技能檢定</h1>
+<p>技能 總共 屬性 級數 雜項</p>
+<h1 id="等級5-資料記錄"><a class="anchor" href="#等級5-資料記錄">#</a> 等級 5 資料記錄</h1>
+<ul>
+<li>選擇一項獎勵專長：Spell Mastery</li>
+<li>TEST</li>
+</ul>
+]]></content>
       <categories>
-          
-          <category> 開拓者遊戲, 開拓者角色創建, SW2.5職業技能全解析] </category>
-          
+        <category>開拓者遊戲, 開拓者角色創建, SW2.5職業技能全解析]</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 開拓者遊戲 </tag>
-            
-            <tag> 開拓者角色創建 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>戰鬥特技詳細解析</title>
-      <link href="swordworld_25/character_creating_extra_guide/Skill_Explian_Guide/Battle_skill/"/>
-      <url>swordworld_25/character_creating_extra_guide/Skill_Explian_Guide/Battle_skill/</url>
-      
-        <content type="html"><![CDATA[<p>詳細請參考規則書『I』 ⇒ 277 頁<br /> p/s: 推薦新手選擇系列</p><h1 id="戰鬥特技-常時特技"><a class="anchor" href="#戰鬥特技-常時特技">#</a> 戰鬥特技 - 常時特技</h1><details class="primary"><summary>《閃避》／《かいくぐり》</summary><div><ul><li>前提：無</li><li>使用：《盾》</li><li>概要：近戰時裝備盾牌並迴避成功時，下次攻擊 C 數值 -1</li><li>效果：以盾牌架開攻擊後，使自己取得有利位置並進行致命的一擊。習得這個特技的角色，要記下在一回合內對來敵人的近接攻擊的回避力判定成功的次數，自己下一個回合進行的第一次近接攻擊時，暴擊值會「- 回避成功的次數」，但不會使暴擊值降到 7 或以下。</li><li>角色自己進行的攻擊，如果是對多個目標進行的攻擊的話，則從命中的目標中選 1 個，在決定傷害時適用此效果。</li><li>此效果在迴避力判定時必須裝備盾，而在進行近接攻擊時沒有盾也無妨。此外，只要進行 1 次接近攻擊就會失去效果。</li></ul></div></details><details class="info"><summary>《回避行動 I》／《回避行動 I》</summary><div><ul><li>前提：冒險者等級 3 以上</li><li>使用：無</li><li>概要:回避力判定 +1</li><li>效果：回避力常駐 +1。</li></ul></div></details><details class="success"><summary>《終律增強》／《終律増強》</summary><div><ul><li>前提：吟遊詩人技能等級 3 以上</li><li>使用：吟遊詩人技能</li><li>概要：終律的威力 +10</li><li>效果：終律造成的傷害和回復量的威力 +10</li></ul></div></details><details class="warning"><summary>《咒歌追加 I》／《呪歌追加 I》</summary><div><ul><li>前提：吟遊詩人技能等級 1 以上</li><li>使用: -</li><li>概要：咒歌和終律的習得數 +1</li><li>效果：可學習的咒歌和終律的數量 +1。換言之，共計可學習的咒歌和終律的數量為「吟遊詩人技能等級 +1」。</li></ul></div></details><details class="primary"><summary>雙擊》／《双撃》</summary><div><ul><li>前提：《左右開弓》</li><li>使用：-</li><li>概要：可以對複數目標進行命中力判定</li><li>效果：使用《左右開弓》進行 2 次攻擊時，在確認了第 1 次攻擊的結果後，可以再對同一目標進行攻擊，或選擇其他目標進行攻擊。</li></ul></div></details><details class="warning"><summary>《左右開弓》／《両手利き》</summary><div><ul><li>前提:-</li><li>使用: -</li><li>概要：可在雙手裝備 2 把單手武器</li><li>效果：可在雙手分別裝備 2 把力需在 20 以下、「用法：1H (不能為 1H#)」的武器，在 1 回合的主動作裏，分別用左右手各進行 1 次攻擊。</li><li>此時，雙手的攻擊都會受到 -2 的懲罰修正。</li><li>可隨意決意哪隻手先進攻，也可以雙手各用不同的戰士系技能進行命中力判定和決定傷害。</li><li>雖然不能分別攻擊不同的目標，但可以在確認了第 1 次攻擊的結果後，中止第 2 次的攻擊。</li></ul></div></details><details class="info"><summary>《投擲 I》／《スローイング I》</summary><div><ul><li>前提：-</li><li>使用：無</li><li>概要:可以投擲使用《藥水》。投擲攻擊的命中力判定 +1。</li><li>效果：分類為《藥水》的道具，可以裝入《藥水球》中，以投擲的方式使用。射程為「1 (10m)」，只要命中力判定不是自動失敗就必定命中。</li><li>命中後，該藥水會對目標產生效果。抵抗的條件為「抵抗：任意」(目標不希望的話，就不會有效果)。</li><li>另外，投擲攻擊的命中力常駐 +1。</li></ul></div></details><details class="success"><summary>《瞄準》／《ターゲッティング》</summary><div><ul><li>前提：-</li><li>使用：無</li><li>概要:防止誤射</li><li>效果：在對混戰區域裏的角色進行遠程攻擊、或行使「形狀：射擊」的魔法時，不會發生誤射。</li></ul></div></details><details class="warning"><summary>《鷹眼》／《鷹の目》</summary><div><ul><li>前提: 《瞄凖》</li><li>使用: -</li><li>概要：可以看清遮蔽的後方</li><li>效果：在有未完全擋住視線的遮蔽如敵對角色、混戰區域等時，可以看到遮蔽後方的情況，並越過遮蔽進行遠程攻擊或行使魔法。</li></ul></div></details><details class="primary"><summary>《特殊樂器熟習》／《特殊楽器習熟》</summary><div><ul><li>前提：吟遊詩人技能等級 1 以上</li><li>使用: ─</li><li>概要:可以裝備和使用特殊樂器</li><li>效果：可以裝備和使用分類為《特殊樂器》的道具。</li><li>即使裝備了能作為武器或防具使用的道具，也不會有追加傷害或防護點上升。</li></ul></div></details><details class="info"><summary>《投摔強化 I》／《投げ強化 I》</summary><div><ul><li>前提：拳鬥士技能等級 3 以上</li><li>使用：拳鬥士技能</li><li>概要:《投摔》的威力 +10，可以投摔最多 2 部位的角色。</li><li>效果：在使用《投摔》時，威力「+10」 。</li><li>另外，可以對所有最多 2 部位的角色使用《投摔》，不限移動方法和腳的數量。</li><li>對 2 部位的角色進行攻擊時，只需進行 1 次命中力判定。被攻擊的目標任意選 1 個部位進行回避力判定，失敗的話則會被投摔出去 (只要有任何一個部位有「◯攻擊阻礙」等屬性影響而無法進行接近攻擊的話，則不能進行投摔)。</li><li>所有部位變成跌倒狀態，同時所有部位受到傷害。&quot;</li></ul></div></details><details class="success"><summary>《武器熟習 A／ **》／《武器習熟 A／ **》</summary><div><ul><li>前提: -</li><li>使用: -</li><li>概要：對應類別的武器追加傷害 +1，可以裝備 A 階武器</li><li>效果: ** 可選擇《劍》《斧》等其中一種武器。當使用此類別的武器攻擊，追加傷害常時 +1。</li><li>可裝備所選擇類別的 A 階武器。</li><li>使用其他欄位可習得其他類別的武器。</li></ul></div></details><details class="warning"><summary>《賦術強化 I》／《賦術強化 I》</summary><div><ul><li>前提：鍊金術師技能等級 3 以上</li><li>使用：鍊金術師技能</li><li>概要：賦術判定 +1</li><li>效果：行使賦術時，所有賦術判定的達成值受到 +1 的獎勵修正。</li></ul></div></details><details class="danger"><summary>《阻擋》／《ブロッキング》</summary><div><ul><li>前提：冒險者等級 3 以上</li><li>使用: ─</li><li>概要：進行移動妨礙或脫離準備時，把自己當作是 2 倍的角色數</li><li>效果：在要進行移動妨礙或要從混戰區域脫離時，自己可視為有 2 倍的角色數 (倍位數)。也就是說，在自己移動時、友方角色通過不了混戰區域而要脫離時、要對敵對角色進行移動妨礙時、敵對角色要脫離混戰區域時，都會被這特技所影響。</li><li>另外，在基本戰鬥裏，戰鬥準備時只要配置到了前線，不論先攻後攻，自己也會視為有着 2 倍的角色數 (部位數)。</li></ul></div></details><details class="primary"><summary>《防具熟習 A／ **》／《防具習熟 A／ **》</summary><div><ul><li>前提:─</li><li>使用: ─</li><li>概要：對應類別的防具防護點 +1，可以裝備 A 階防具</li><li>效果：可選擇《金屬鎧》《盾》等其中一種防具。當裝備此類別的防具時，防護點常時 +1。</li><li>可裝備所選擇類別的 A 階防具。</li><li>使用其他欄位可習得其他類別的防具。此情況下，當同時裝備了這些類別的防具的時候，防護點的上升可以累積。&quot;</li></ul><h1 id="戰鬥特技-宣言特技"><a class="anchor" href="#戰鬥特技-宣言特技">#</a> 戰鬥特技 - 宣言特技</h1><details class="info"><summary>《陷阱攻擊 I》／《囮攻撃 I》</summary><div><ul><li>前提：─</li><li>使用:─</li><li>適用:1 次接近攻擊</li><li>代價:─</li><li>概要：命中力判定 -2，傷害 +2，成功回避的敵人回避力判定 -1</li><li>效果:以「打中當然好，但打不中也要吸引敵人的注意力，協助隊友攻擊」為目標，用誇張的大動作進行攻擊。</li><li>此特技要在進行接近攻擊時宣言，僅限該次攻擊有效。不能在能對複數目標進行攻擊時宣言此特技。</li><li>雖然命中力判定會受到 -2 的懲罰修正，但命中時的傷害會 +2。</li><li>宣言了特技的那次攻擊被目標回避的話，該目標在接下來的 10 秒 (1 回合) 內，回避力判定都會受到 -1 的懲罰修正。這效果會累積至最多 -4，並只要目標出現了哪怕是 1 次回避失敗時，該效果都會即時消失。</li></ul></div></details></div></details><details class="success"><summary>《樂素轉換》／《楽素転換》</summary><div><ul><li>前提：吟遊詩人技能等級 3 以上</li><li>適用： 一瞬</li><li>使用: -</li><li>概要：轉換 1 個已生成的樂素</li><li>效果：可以在回合中任意時機宣言此特技。宣言了此特技時，立即在任何累積數量「1」以上的樂素中選擇 1 種，然後將其累積量 -1。同時，將任意 1 個其他類型的樂素的累積量 +1。</li><li>至於有效果生效條件的咒歌會否因此受到影響，則視乎演奏判定的時機。當判定後使用此特技轉換樂素後，即使滿足了條件，效果仍不會生效。</li><li>相反，在效果生效後，即使用此特技轉換了樂素，以致樂素量未能滿足條件，效果仍不會失效。</li></ul></div></details><details class="warning"><summary>△《掩護 I》／△《かぼう I》</summary><div><ul><li>前提: -</li><li>適用：持續 10 秒 (1 回合)</li><li>使用: -</li><li>概要：代為承受針對隊友的攻擊</li><li>效果：在宣言這個特技時，指定任意一名角色，但該角色不同意的話則不能指定。</li><li>在接下來的 10 秒 (1 回合) 內，當該角色被接近攻擊、遠程攻擊、及其他有接近攻擊或遠程攻擊效果的特殊能力 (有「回避力判定／消滅」 的特性的) 指定為目標時，宣言特技者會代為承受。為使這個效果生效，宣言者必須與想保護的目標身處同一區域。</li><li>效果生效時，宣言了《掩護》的角色會立即計算受到的傷害。在攻擊命中或造成傷害時，有隨此生效的效果的話 (如攻擊命中時目標會受到毒傷害等)，宣言者會連那些效果一起承受。不能使用回避力判定。</li><li>在想保護的目標被多人狙擊時，《掩護》的效果只會 1 回合發揮 1 次，並自動適用於第 1 次攻擊。</li><li>特殊註釋：能代替別人承受攻擊的《掩護》，是頗特殊的戰鬥特技。在這裏將會進行補充說明。</li><li>01：<strong>《掩護》並不能幫別人掩護不能用回避力判定的魔法和特殊能力</strong>。<strong>同時</strong>指定宣言者和被《掩護》指定的目標的攻擊，在原則上也<strong>不能使用《掩護》</strong>。</li><li>02: 在能多次宣言特技時，不能在 1 回合內多次宣言《掩護》，對多名角色進行掩護。帶有《守護》技能的角色則可宣言同時掩護多名角色。</li><li>03:《掩護》的效果生效並不會改變攻擊的對象。因此，部分特技如《追加攻擊》等，可以再次進行攻擊的時候，對向原本瞄準的目標攻擊，而不是宣言了《掩護》的人。</li><li>04: 用《左右開弓》進行 2 次攻擊時，《掩護》的效果只會生效 1 次，另外 1 次則仍會向原本目標攻擊。</li><li>05: 部分魔物所持有的「◯連續攻擊」也同樣，對宣言者造成傷害後，再對原本的攻擊對象進行追加攻擊。</li><li>宣言者與隊友的關係：基本戰鬥基本上處於同一個區域，在高級戰鬥裡面其所劃分如下，該規則會與限制移動的範圍相同：<ul><li>如果宣言者處於混戰狀態，則指定角色必須位於混戰區域。效果：一位指定的角色</li><li>如果宣言者處於獨立狀態，則宣言者需要通過限制移動到可到達範圍裡掩護混戰區域的角色。</li><li>如果宣言者處於混戰區之外，則宣言者需要通過限制移動到可到達範圍裡進行掩護不處於混戰區域的角色。</li></ul></li></ul></div></details><details class="danger"><summary>《回斬 I》／《斬り返し I》</summary><div><ul><li>前提: -</li><li>適用： 1 次接近攻擊</li><li>使用：戰士或輕戰士技能 &amp; 2H 近戰武器</li><li>概要：攻擊被回避時，可追加再進行攻擊</li><li>效果：在使用「用法：2H」的武器進行接近攻擊時宣言，僅限該次攻擊有效.</li><li>宣言了特技的那次攻擊被目標回避的話，可立即用同一把武器對同一個目標再進行接近攻擊 1 次。</li><li>第 1 次攻擊就命中的話，則不會進行第 2 次攻擊。</li><li>同時攻擊多個目標時，有哪個目標回避了攻擊的話，就可對所有回避了的目標再進行 1 次命中力判定。無論是第 1 次還是第 2 次攻擊，只要命中了，就對命中的目標逐個決定傷害。</li></ul></div></details>]]></content>
-      
-      
+      <tags>
+        <tag>開拓者遊戲</tag>
+        <tag>開拓者角色創建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>克蘇魯戰爭桌遊遊戲規則</title>
+    <url>/boardgame/cocwar/cocwarsrule/cocwar_rule/</url>
+    <content><![CDATA[<h1 id="遊戲設置"><a class="anchor" href="#遊戲設置">#</a> 遊戲設置</h1>
+<h2 id="把地圖放好"><a class="anchor" href="#把地圖放好">#</a> 把地圖放好</h2>
+<ul>
+<li>遊戲裡面有兩塊地圖分別為東大陸和西大陸，每一塊大陸都會印有兩面。</li>
+<li>這兩面的地形是一樣的，但 5 人地圖的地域分佈會比 3 人地圖的地域分佈來的更為仔細。</li>
+</ul>
+<details class="primary"><summary>二人遊戲的設置</summary><div>
+<p>一段內容</p>
+</div></details>
+<details class="info"><summary>三人遊戲的設置</summary><div>
+<p>Arrange the Map so that both 3-Player hemispheres are face-up. The map will display 13 total Areas.</p>
+</div></details>
+<details class="success"><summary>四人遊戲的設置</summary><div>
+<p>Arrange the Map such that one 3-Player and one 5-Player hemisphere are face-up</p>
+</div></details>
+]]></content>
       <categories>
-          
-          <category> 劍世界2.5 </category>
-          
-          <category> 角色創造補充指導書 </category>
-          
-          <category> SW2.5職業技能全解析 </category>
-          
+        <category>精選桌遊</category>
+        <category>克蘇魯戰爭</category>
+        <category>克蘇魯戰爭遊戲規則</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 劍世界2.5 </tag>
-            
-            <tag> 角色創造補充指導書 </tag>
-            
-            <tag> SW2.5職業技能全解析 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>變成蟲蟲的公仔欺詐師之人物介紹 01 公仔人-TP</title>
-      <link href="star-world/coc-novel-owncreation/dollman-advanture/dollmanTP/"/>
-      <url>star-world/coc-novel-owncreation/dollman-advanture/dollmanTP/</url>
-      
-        <content type="html"><![CDATA[<p>大家好，這是我第一次以廣東話的形式來寫故事。這是一個關於克蘇魯神話生物當中，其中一隻怪物羅伊格爾 (Lloigor) 把一隻可愛的公仔人 - TP 當作實驗品後，佔領其肉體，令他靈魂變成了碎片散落到世界不同角落，使他被迫為了讓自己恢復原樣和找到羅伊格爾報仇的故事。</p><p><img data-src="https://i.postimg.cc/xjzQgLQf/photo-2017-02-16-12-45-11.jpg" alt="photo-2017-02-16-12-45-11.jpg" /></p><p>角色姓名：TP，10.87878787 歲<br />職業：專業欺詐師</p><p>公仔族人，係公仔一族當中最詭計多端的小人物。係細細個嘅時候已經叻到成功呃晒成個族群 D 人，個個見親佢，都嚇到避而遠之，不敢同佢打交道。</p><p>久而久之，他的孤獨令佢獲得了一個分身的能力，平時佢悶嘅時候都會叫分身出黎陪佢玩。呢個分身最特別的就係，可以同 TP 一樣隨時改變自己公仔人的模樣，例如變成可愛的兔仔公仔人。</p><p>不再是自己一個人的 TP，日子都變得不怎麼悶了。</p><p><img data-src="https://i.postimg.cc/pdrbjFkt/494851bd2bf3b7df03655e97b0768994.jpg" alt="494851bd2bf3b7df03655e97b0768994.jpg" /></p><p>可惜呢 D 幸福日子也維持不了多久，TP 最終還是忍受不了自己同自己講野，好似好低 B 咁樣。於是乎，佢開始對未來有咗新嘅打算。</p><p>佢離開了公仔一族，靜雞雞咁黎到左人類世界，皆因一般人類的世界認知觀裡面是沒有真實出現過公仔人，於是佢就改頭換面換埋個樣。</p><p>變成人樣後，也誤打誤撞係人類世界靠著他天赋异禀的呃人能力成了一個專業的欺詐師。佢下手嘅目標可以是從 BB 到老人，就連白痴，智力低下嘅都唔放過。</p><p>後來，佢行街搵水魚嘅時候，唔知點解個腦好似失去思考能力咁樣，應承咗做羅伊格爾嘅實驗品，可惜慘遭羅伊格爾背叛，肉體被佔領，自己只能控制變成蟲蟲形態的元神，身體元神無處可歸。</p><p>更何況，佢元神嘅 Size 實在太細啦，所以話，世間上無咩人可以睇到佢。不過，最悲慘嘅事實，莫過於 TP 嘅靈魂，無啦啦就噉樣分散成 7 片，四散在世界不同的角落。</p><p>為了恢復自己靈魂碎片，TP 幸運地遇上佢盟友，還成立了心機婊大聯盟【TP 自稱】，除了要搵番碎片之外，仲要解開碎片裡面隱藏的秘密，當然也少不了對羅伊格爾展開一連串的復仇計劃。</p><p>如果你喜歡這一篇文章的話，記得為這文章按讚，那樣你就能以實際的行動支持我的創作，我也可以收到創作的回報。</p><p><img data-src="https://i.postimg.cc/1RJGCVrd/Liking-call-out-2-1.gif" alt="" /></p><p><iframe src="https://button.like.co/in/embed/bluebear119/button?referrer=http://localhost:4000/star-world/coc-novel-owncreation/dollman-advanture/dollmanTP.html&amp" width="100%" height="300" frameborder="0" loading="lazy" allowfullscreen></iframe></p>]]></content>
-      
-      
+      <tags>
+        <tag>克蘇魯戰爭</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>戰鬥特技詳細解析</title>
+    <url>/swordworld_25/character_creating_extra_guide/Skill_Explian_Guide/Battle_skill/</url>
+    <content><![CDATA[<p>詳細請參考規則書『I』 ⇒ 277 頁<br />
+ p/s: 推薦新手選擇系列</p>
+<h1 id="戰鬥特技-常時特技"><a class="anchor" href="#戰鬥特技-常時特技">#</a> 戰鬥特技 - 常時特技</h1>
+<details class="primary"><summary>《閃避》／《かいくぐり》</summary><div>
+<ul>
+<li>前提：無</li>
+<li>使用：《盾》</li>
+<li>概要：近戰時裝備盾牌並迴避成功時，下次攻擊 C 數值 -1</li>
+<li>效果：以盾牌架開攻擊後，使自己取得有利位置並進行致命的一擊。習得這個特技的角色，要記下在一回合內對來敵人的近接攻擊的回避力判定成功的次數，自己下一個回合進行的第一次近接攻擊時，暴擊值會「- 回避成功的次數」，但不會使暴擊值降到 7 或以下。</li>
+<li>角色自己進行的攻擊，如果是對多個目標進行的攻擊的話，則從命中的目標中選 1 個，在決定傷害時適用此效果。</li>
+<li>此效果在迴避力判定時必須裝備盾，而在進行近接攻擊時沒有盾也無妨。此外，只要進行 1 次接近攻擊就會失去效果。</li>
+</ul>
+</div></details>
+<details class="info"><summary>《回避行動 I》／《回避行動 I》</summary><div>
+<ul>
+<li>前提：冒險者等級 3 以上</li>
+<li>使用：無</li>
+<li>概要:	回避力判定 +1</li>
+<li>效果：回避力常駐 +1。</li>
+</ul>
+</div></details>
+<details class="success"><summary>《終律增強》／《終律増強》</summary><div>
+<ul>
+<li>前提：吟遊詩人技能等級 3 以上</li>
+<li>使用：吟遊詩人技能</li>
+<li>概要：終律的威力 +10</li>
+<li>效果：終律造成的傷害和回復量的威力 +10</li>
+</ul>
+</div></details>
+<details class="warning"><summary>《咒歌追加 I》／《呪歌追加 I》</summary><div>
+<ul>
+<li>前提：吟遊詩人技能等級 1 以上</li>
+<li>使用: -</li>
+<li>概要：咒歌和終律的習得數 +1</li>
+<li>效果：可學習的咒歌和終律的數量 +1。換言之，共計可學習的咒歌和終律的數量為「吟遊詩人技能等級 +1」。</li>
+</ul>
+</div></details>
+<details class="primary"><summary>雙擊》／《双撃》</summary><div>
+<ul>
+<li>前提：《左右開弓》</li>
+<li>使用：-</li>
+<li>概要：可以對複數目標進行命中力判定</li>
+<li>效果：使用《左右開弓》進行 2 次攻擊時，在確認了第 1 次攻擊的結果後，可以再對同一目標進行攻擊，或選擇其他目標進行攻擊。</li>
+</ul>
+</div></details>
+<details class="warning"><summary>《左右開弓》／《両手利き》</summary><div>
+<ul>
+<li>前提:	-</li>
+<li>使用: -</li>
+<li>概要：可在雙手裝備 2 把單手武器</li>
+<li>效果：可在雙手分別裝備 2 把力需在 20 以下、「用法：1H (不能為 1H#)」的武器，在 1 回合的主動作裏，分別用左右手各進行 1 次攻擊。</li>
+<li>此時，雙手的攻擊都會受到 -2 的懲罰修正。</li>
+<li>可隨意決意哪隻手先進攻，也可以雙手各用不同的戰士系技能進行命中力判定和決定傷害。</li>
+<li>雖然不能分別攻擊不同的目標，但可以在確認了第 1 次攻擊的結果後，中止第 2 次的攻擊。</li>
+</ul>
+</div></details>
+<details class="info"><summary>《投擲 I》／《スローイング I》</summary><div>
+<ul>
+<li>前提：-</li>
+<li>使用：無</li>
+<li>概要:	可以投擲使用《藥水》。投擲攻擊的命中力判定 +1。</li>
+<li>效果：分類為《藥水》的道具，可以裝入《藥水球》中，以投擲的方式使用。射程為「1 (10m)」，只要命中力判定不是自動失敗就必定命中。</li>
+<li>命中後，該藥水會對目標產生效果。抵抗的條件為「抵抗：任意」(目標不希望的話，就不會有效果)。</li>
+<li>另外，投擲攻擊的命中力常駐 +1。</li>
+</ul>
+</div></details>
+<details class="success"><summary>《瞄準》／《ターゲッティング》</summary><div>
+<ul>
+<li>前提：-</li>
+<li>使用：無</li>
+<li>概要:	防止誤射</li>
+<li>效果：在對混戰區域裏的角色進行遠程攻擊、或行使「形狀：射擊」的魔法時，不會發生誤射。</li>
+</ul>
+</div></details>
+<details class="warning"><summary>《鷹眼》／《鷹の目》</summary><div>
+<ul>
+<li>前提: 《瞄凖》</li>
+<li>使用: -</li>
+<li>概要：可以看清遮蔽的後方</li>
+<li>效果：在有未完全擋住視線的遮蔽如敵對角色、混戰區域等時，可以看到遮蔽後方的情況，並越過遮蔽進行遠程攻擊或行使魔法。</li>
+</ul>
+</div></details>
+<details class="primary"><summary>《特殊樂器熟習》／《特殊楽器習熟》</summary><div>
+<ul>
+<li>前提：吟遊詩人技能等級 1 以上</li>
+<li>使用: ─</li>
+<li>概要:	可以裝備和使用特殊樂器</li>
+<li>效果：可以裝備和使用分類為《特殊樂器》的道具。</li>
+<li>即使裝備了能作為武器或防具使用的道具，也不會有追加傷害或防護點上升。</li>
+</ul>
+</div></details>
+<details class="info"><summary>《投摔強化 I》／《投げ強化 I》</summary><div>
+<ul>
+<li>前提：拳鬥士技能等級 3 以上</li>
+<li>使用：拳鬥士技能</li>
+<li>概要:	《投摔》的威力 +10，可以投摔最多 2 部位的角色。</li>
+<li>效果：在使用《投摔》時，威力「+10」 。</li>
+<li>另外，可以對所有最多 2 部位的角色使用《投摔》，不限移動方法和腳的數量。</li>
+<li>對 2 部位的角色進行攻擊時，只需進行 1 次命中力判定。被攻擊的目標任意選 1 個部位進行回避力判定，失敗的話則會被投摔出去 (只要有任何一個部位有「◯攻擊阻礙」等屬性影響而無法進行接近攻擊的話，則不能進行投摔)。</li>
+<li>所有部位變成跌倒狀態，同時所有部位受到傷害。&quot;</li>
+</ul>
+</div></details>
+<details class="success"><summary>《武器熟習 A／ **》／《武器習熟 A／ **》</summary><div>
+<ul>
+<li>前提: -</li>
+<li>使用: -</li>
+<li>概要：對應類別的武器追加傷害 +1，可以裝備 A 階武器</li>
+<li>效果: ** 可選擇《劍》《斧》等其中一種武器。當使用此類別的武器攻擊，追加傷害常時 +1。</li>
+<li>可裝備所選擇類別的 A 階武器。</li>
+<li>使用其他欄位可習得其他類別的武器。</li>
+</ul>
+</div></details>
+<details class="warning"><summary>《賦術強化 I》／《賦術強化 I》</summary><div>
+<ul>
+<li>前提：鍊金術師技能等級 3 以上</li>
+<li>使用：鍊金術師技能</li>
+<li>概要：賦術判定 +1</li>
+<li>效果：行使賦術時，所有賦術判定的達成值受到 +1 的獎勵修正。</li>
+</ul>
+</div></details>
+<details class="danger"><summary>《阻擋》／《ブロッキング》</summary><div>
+<ul>
+<li>前提：冒險者等級 3 以上</li>
+<li>使用: ─</li>
+<li>概要：進行移動妨礙或脫離準備時，把自己當作是 2 倍的角色數</li>
+<li>效果：在要進行移動妨礙或要從混戰區域脫離時，自己可視為有 2 倍的角色數 (倍位數)。也就是說，在自己移動時、友方角色通過不了混戰區域而要脫離時、要對敵對角色進行移動妨礙時、敵對角色要脫離混戰區域時，都會被這特技所影響。</li>
+<li>另外，在基本戰鬥裏，戰鬥準備時只要配置到了前線，不論先攻後攻，自己也會視為有着 2 倍的角色數 (部位數)。</li>
+</ul>
+</div></details>
+<details class="primary"><summary>《防具熟習 A／ **》／《防具習熟 A／ **》</summary><div>
+<ul>
+<li>前提:	─</li>
+<li>使用: ─</li>
+<li>概要：對應類別的防具防護點 +1，可以裝備 A 階防具</li>
+<li>效果：可選擇《金屬鎧》《盾》等其中一種防具。當裝備此類別的防具時，防護點常時 +1。</li>
+<li>可裝備所選擇類別的 A 階防具。</li>
+<li>使用其他欄位可習得其他類別的防具。此情況下，當同時裝備了這些類別的防具的時候，防護點的上升可以累積。&quot;</li>
+</ul>
+<h1 id="戰鬥特技-宣言特技"><a class="anchor" href="#戰鬥特技-宣言特技">#</a> 戰鬥特技 - 宣言特技</h1>
+<details class="info"><summary>《陷阱攻擊 I》／《囮攻撃 I》</summary><div>
+<ul>
+<li>前提：─</li>
+<li>使用:	─</li>
+<li>適用:	1 次接近攻擊</li>
+<li>代價:	─</li>
+<li>概要：命中力判定 -2，傷害 +2，成功回避的敵人回避力判定 -1</li>
+<li>效果:	以「打中當然好，但打不中也要吸引敵人的注意力，協助隊友攻擊」為目標，用誇張的大動作進行攻擊。</li>
+<li>此特技要在進行接近攻擊時宣言，僅限該次攻擊有效。不能在能對複數目標進行攻擊時宣言此特技。</li>
+<li>雖然命中力判定會受到 -2 的懲罰修正，但命中時的傷害會 +2。</li>
+<li>宣言了特技的那次攻擊被目標回避的話，該目標在接下來的 10 秒 (1 回合) 內，回避力判定都會受到 -1 的懲罰修正。這效果會累積至最多 -4，並只要目標出現了哪怕是 1 次回避失敗時，該效果都會即時消失。</li>
+</ul>
+</div></details>
+</div></details>
+<details class="success"><summary>《樂素轉換》／《楽素転換》</summary><div>
+<ul>
+<li>前提：吟遊詩人技能等級 3 以上</li>
+<li>適用： 一瞬</li>
+<li>使用: -</li>
+<li>概要：轉換 1 個已生成的樂素</li>
+<li>效果：可以在回合中任意時機宣言此特技。宣言了此特技時，立即在任何累積數量「1」以上的樂素中選擇 1 種，然後將其累積量 -1。同時，將任意 1 個其他類型的樂素的累積量 +1。</li>
+<li>至於有效果生效條件的咒歌會否因此受到影響，則視乎演奏判定的時機。當判定後使用此特技轉換樂素後，即使滿足了條件，效果仍不會生效。</li>
+<li>相反，在效果生效後，即使用此特技轉換了樂素，以致樂素量未能滿足條件，效果仍不會失效。</li>
+</ul>
+</div></details>
+<details class="warning"><summary>△《掩護 I》／△《かぼう I》</summary><div>
+<ul>
+<li>前提: -</li>
+<li>適用：持續 10 秒 (1 回合)</li>
+<li>使用: -</li>
+<li>概要：代為承受針對隊友的攻擊</li>
+<li>效果：在宣言這個特技時，指定任意一名角色，但該角色不同意的話則不能指定。</li>
+<li>在接下來的 10 秒 (1 回合) 內，當該角色被接近攻擊、遠程攻擊、及其他有接近攻擊或遠程攻擊效果的特殊能力 (有「回避力判定／消滅」 的特性的) 指定為目標時，宣言特技者會代為承受。為使這個效果生效，宣言者必須與想保護的目標身處同一區域。</li>
+<li>效果生效時，宣言了《掩護》的角色會立即計算受到的傷害。在攻擊命中或造成傷害時，有隨此生效的效果的話 (如攻擊命中時目標會受到毒傷害等)，宣言者會連那些效果一起承受。不能使用回避力判定。</li>
+<li>在想保護的目標被多人狙擊時，《掩護》的效果只會 1 回合發揮 1 次，並自動適用於第 1 次攻擊。</li>
+<li>特殊註釋：能代替別人承受攻擊的《掩護》，是頗特殊的戰鬥特技。在這裏將會進行補充說明。</li>
+<li>01：<strong>《掩護》並不能幫別人掩護不能用回避力判定的魔法和特殊能力</strong>。<strong>同時</strong>指定宣言者和被《掩護》指定的目標的攻擊，在原則上也<strong>不能使用《掩護》</strong>。</li>
+<li>02: 在能多次宣言特技時，不能在 1 回合內多次宣言《掩護》，對多名角色進行掩護。帶有《守護》技能的角色則可宣言同時掩護多名角色。</li>
+<li>03:《掩護》的效果生效並不會改變攻擊的對象。因此，部分特技如《追加攻擊》等，可以再次進行攻擊的時候，對向原本瞄準的目標攻擊，而不是宣言了《掩護》的人。</li>
+<li>04: 用《左右開弓》進行 2 次攻擊時，《掩護》的效果只會生效 1 次，另外 1 次則仍會向原本目標攻擊。</li>
+<li>05: 部分魔物所持有的「◯連續攻擊」也同樣，對宣言者造成傷害後，再對原本的攻擊對象進行追加攻擊。</li>
+<li>宣言者與隊友的關係：基本戰鬥基本上處於同一個區域，在高級戰鬥裡面其所劃分如下，該規則會與限制移動的範圍相同：
+<ul>
+<li>如果宣言者處於混戰狀態，則指定角色必須位於混戰區域。效果：一位指定的角色</li>
+<li>如果宣言者處於獨立狀態，則宣言者需要通過限制移動到可到達範圍裡掩護混戰區域的角色。</li>
+<li>如果宣言者處於混戰區之外，則宣言者需要通過限制移動到可到達範圍裡進行掩護不處於混戰區域的角色。</li>
+</ul>
+</li>
+</ul>
+</div></details>
+<details class="danger"><summary>《回斬 I》／《斬り返し I》</summary><div>
+<ul>
+<li>前提: -</li>
+<li>適用： 1 次接近攻擊</li>
+<li>使用：戰士或輕戰士技能 &amp; 2H 近戰武器</li>
+<li>概要：攻擊被回避時，可追加再進行攻擊</li>
+<li>效果：在使用「用法：2H」的武器進行接近攻擊時宣言，僅限該次攻擊有效.</li>
+<li>宣言了特技的那次攻擊被目標回避的話，可立即用同一把武器對同一個目標再進行接近攻擊 1 次。</li>
+<li>第 1 次攻擊就命中的話，則不會進行第 2 次攻擊。</li>
+<li>同時攻擊多個目標時，有哪個目標回避了攻擊的話，就可對所有回避了的目標再進行 1 次命中力判定。無論是第 1 次還是第 2 次攻擊，只要命中了，就對命中的目標逐個決定傷害。</li>
+</ul>
+</div></details>
+]]></content>
       <categories>
-          
-          <category> 星靈世界 </category>
-          
-          <category> 克蘇魯原創小說 </category>
-          
-          <category> 變成蟲蟲的公仔欺詐師 </category>
-          
+        <category>劍世界2.5</category>
+        <category>角色創造補充指導書</category>
+        <category>SW2.5職業技能全解析</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 克蘇魯原創小說 </tag>
-            
-            <tag> 人物介紹 </tag>
-            
-            <tag> 羅伊格爾 </tag>
-            
-            <tag> 變成蟲蟲的公仔欺詐師 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>天際凌鏡 - 帝納浮島導航系統</title>
-      <link href="prismisland/"/>
-      <url>prismisland/</url>
-      
-        <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">如果你知道浮士德傾情的神座能否告訴我呢?</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="403cbcd78997e0bea8d266428c77266b078da382c2a616428f1ba8ada30d2b87">a29f8a013c6a3a958f39696893b911fba02e2324b5b8d33f6af2aa35c053f709c896ded1ca9e0f563d800c0d015d1867ef7d8363259110094d39210b84fe43c4afb5ecc644a5be218194ca236354a264c671a9e15eef133e95ebc01fbb2f01c76a947de5b0c93e00143712445795f06cd499fe46d5b3eab00d734b6099a67f4d84c3a72329f5f91600b13540a5ddff4b0dd97df9d5946e8992542c7dba8a060e90f881bb64a1805bda00a2b8ef515b13d711958df37858d9edc056acec13205bf2eafbf1d7d3b6c88a5fbcbb4b5f856127aad6b0d532d9ab0b688e497f859a6b71ea952448f321209fff5baacd67529ac8f63ca0f39412a9425339b9ccdf89f491d6f8d523fa8ba3935c477dfe5aefde4fd8b29aa26a5b955bda742eb9f35ea3d5e67aaa4230929bcf438b3f1f8e1a7f972cd0b2c0babd40181ba4558dc385de384376b34cec500683aa49381ee8bb8ebc252495b49952cf74b77ea20c1dba99344d0d617e0d3c686369f6f16b6115b9e7adc54213119426f1d376ba01eb83d8b19c4654a5f6de024992efd23dfbbe73c9b59ca3bbf681fb43c5d446e3b62189bcb270d3e09d63828eb27417762f607148b1777a050965bca09b44f449bf06c0a344dc01ffa71f6f4df89d8d9d21785b3762c0232fa12c6210d7dcc217c1697e93fcbdcb4fd231256c97271ea39fbebc8f25ffd5218c5833bdb06968972691d0f646565158c74241e47cb73a8153a3edd65024dd75e978587a73af7ff04d45eb52baa8b564af4d4e474457b54cfda7e4c03c508582fba26f0af8fcc52b8c032e5dd01bacf46740ee4ee0852d1b9ee56b938f19c34efffd47979d0eb09e797bd902a2fe6c27c69d960ef8b828dc67830fc018896bdd7fc41564f4565c321518ddb6049e1393d1375c8b98757eaf65415a46870d7bd299257a23cef4644a9e725c7923e0da9f59e02e60cfd86fadd9dcf12098fc4a8a7a3e78f101c0c5c008c6320053ccff96f6823c20774db811ce5e4adfc5c5a7bb611e042b1f348cea6835bfe6d906040a396f3f9ceae61a21c4663f70b779694adaa8f7b1894636ef9ca62ad624c1b72943d7d2b07c74ca690525b68e66545aed5e4847a6f279ec6436a0194f1a9707e6408f40796a16a696ff4db2fdd41fb3d6675b7a68038f058e57c761e4b8a67134c04306bbd885730cea336bad839382854417706c5f9e2e4f551b7219e39e21cdcc3b8ab3ff67779a093a78</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 天際凌鏡 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>劍世界2.5</tag>
+        <tag>角色創造補充指導書</tag>
+        <tag>SW2.5職業技能全解析</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>變成蟲蟲的公仔欺詐師之人物介紹 01 公仔人-TP</title>
+    <url>/star-world/coc-novel-owncreation/dollman-advanture/dollmanTP/</url>
+    <content><![CDATA[<p>大家好，這是我第一次以廣東話的形式來寫故事。這是一個關於克蘇魯神話生物當中，其中一隻怪物羅伊格爾 (Lloigor) 把一隻可愛的公仔人 - TP 當作實驗品後，佔領其肉體，令他靈魂變成了碎片散落到世界不同角落，使他被迫為了讓自己恢復原樣和找到羅伊格爾報仇的故事。</p>
+<p><img data-src="https://i.postimg.cc/xjzQgLQf/photo-2017-02-16-12-45-11.jpg" alt="photo-2017-02-16-12-45-11.jpg" /></p>
+<p>角色姓名：TP，10.87878787 歲<br />
+職業：專業欺詐師</p>
+<p>公仔族人，係公仔一族當中最詭計多端的小人物。係細細個嘅時候已經叻到成功呃晒成個族群 D 人，個個見親佢，都嚇到避而遠之，不敢同佢打交道。</p>
+<p>久而久之，他的孤獨令佢獲得了一個分身的能力，平時佢悶嘅時候都會叫分身出黎陪佢玩。呢個分身最特別的就係，可以同 TP 一樣隨時改變自己公仔人的模樣，例如變成可愛的兔仔公仔人。</p>
+<p>不再是自己一個人的 TP，日子都變得不怎麼悶了。</p>
+<p><img data-src="https://i.postimg.cc/pdrbjFkt/494851bd2bf3b7df03655e97b0768994.jpg" alt="494851bd2bf3b7df03655e97b0768994.jpg" /></p>
+<p>可惜呢 D 幸福日子也維持不了多久，TP 最終還是忍受不了自己同自己講野，好似好低 B 咁樣。於是乎，佢開始對未來有咗新嘅打算。</p>
+<p>佢離開了公仔一族，靜雞雞咁黎到左人類世界，皆因一般人類的世界認知觀裡面是沒有真實出現過公仔人，於是佢就改頭換面換埋個樣。</p>
+<p>變成人樣後，也誤打誤撞係人類世界靠著他天赋异禀的呃人能力成了一個專業的欺詐師。佢下手嘅目標可以是從 BB 到老人，就連白痴，智力低下嘅都唔放過。</p>
+<p>後來，佢行街搵水魚嘅時候，唔知點解個腦好似失去思考能力咁樣，應承咗做羅伊格爾嘅實驗品，可惜慘遭羅伊格爾背叛，肉體被佔領，自己只能控制變成蟲蟲形態的元神，身體元神無處可歸。</p>
+<p>更何況，佢元神嘅 Size 實在太細啦，所以話，世間上無咩人可以睇到佢。不過，最悲慘嘅事實，莫過於 TP 嘅靈魂，無啦啦就噉樣分散成 7 片，四散在世界不同的角落。</p>
+<p>為了恢復自己靈魂碎片，TP 幸運地遇上佢盟友，還成立了心機婊大聯盟【TP 自稱】，除了要搵番碎片之外，仲要解開碎片裡面隱藏的秘密，當然也少不了對羅伊格爾展開一連串的復仇計劃。</p>
+<p>如果你喜歡這一篇文章的話，記得為這文章按讚，那樣你就能以實際的行動支持我的創作，我也可以收到創作的回報。</p>
+<p><img data-src="https://i.postimg.cc/1RJGCVrd/Liking-call-out-2-1.gif" alt="" /></p>
+<p><iframe src="https://button.like.co/in/embed/bluebear119/button?referrer=http://localhost:4000/star-world/coc-novel-owncreation/dollman-advanture/dollmanTP.html&amp" width="100%" height="300" frameborder="0" loading="lazy" allowfullscreen></iframe></p>
+]]></content>
+      <categories>
+        <category>星靈世界</category>
+        <category>克蘇魯原創小說</category>
+        <category>變成蟲蟲的公仔欺詐師</category>
+      </categories>
+      <tags>
+        <tag>克蘇魯原創小說</tag>
+        <tag>人物介紹</tag>
+        <tag>羅伊格爾</tag>
+        <tag>變成蟲蟲的公仔欺詐師</tag>
+      </tags>
+  </entry>
 </search>

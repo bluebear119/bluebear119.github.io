@@ -85,6 +85,32 @@
         <updated>2020-10-30T02:00:00.000Z</updated>
     </entry>
     <entry>
+        <id>https://bluebear119.github.io/boardgame/ahlcg/OTCGN_AH_Intro/</id>
+        <title>如何使用OTCGN來玩詭鎮奇談(Arkham Horror LCG)</title>
+        <link rel="alternate" href="https://bluebear119.github.io/boardgame/ahlcg/OTCGN_AH_Intro/"/>
+        <content type="html">&lt;h1 id=&#34;otcgn介紹&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#otcgn介紹&#34;&gt;#&lt;/a&gt; OTCGN 介紹&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5vY3Rnbi5uZXQvSG9tZS9HZXRPY3Rnbg==&#34;&gt;http://www.octgn.net/Home/GetOctgn&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;安裝過程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安裝過程&#34;&gt;#&lt;/a&gt; 安裝過程&lt;/h1&gt;
+&lt;h2 id=&#34;下載octgn&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下載octgn&#34;&gt;#&lt;/a&gt; 下載 OCTGN&lt;/h2&gt;
+&lt;h2 id=&#34;安裝-arkham-horrorthe-card-game-definition&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安裝-arkham-horrorthe-card-game-definition&#34;&gt;#&lt;/a&gt; 安裝 Arkham Horror:The Card Game Definition&lt;/h2&gt;
+&lt;p&gt;一旦你安裝好 OTCGN 之後，你就可以打開這個軟件，選擇 Games Manager，找到 Arkham Horror:The Card Game Definition 後，點擊安裝，之後 OTCGN 就會直接自動替你安裝好這個桌遊。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.ibb.co/nm4QBYd/Snipaste-2020-11-30-05-53-24.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;但是，安裝好的桌遊並不包含遊戲圖片文件，這時候你需要到這個&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9haGxjZ29jdGduLndvcmRwcmVzcy5jb20vaW1hZ2UtcGFja3Mv&#34;&gt;頁面&lt;/span&gt;去下載相關的圖片包&lt;/p&gt;
+&lt;h2 id=&#34;安裝圖片包&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安裝圖片包&#34;&gt;#&lt;/a&gt; 安裝圖片包&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.ibb.co/jWHxCcc/Snipaste-2020-11-30-06-03-08.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="桌遊" scheme="https://bluebear119.github.io/categories/%E6%A1%8C%E9%81%8A/" />
+        <category term="詭鎮奇談" scheme="https://bluebear119.github.io/categories/%E6%A1%8C%E9%81%8A/%E8%A9%AD%E9%8E%AE%E5%A5%87%E8%AB%87/" />
+        <category term="詭鎮奇談教學系列" scheme="https://bluebear119.github.io/categories/%E6%A1%8C%E9%81%8A/%E8%A9%AD%E9%8E%AE%E5%A5%87%E8%AB%87/%E8%A9%AD%E9%8E%AE%E5%A5%87%E8%AB%87%E6%95%99%E5%AD%B8%E7%B3%BB%E5%88%97/" />
+        <category term="桌遊" scheme="https://bluebear119.github.io/tags/%E6%A1%8C%E9%81%8A/" />
+        <category term="詭鎮奇談" scheme="https://bluebear119.github.io/tags/%E8%A9%AD%E9%8E%AE%E5%A5%87%E8%AB%87/" />
+        <category term="詭鎮奇談教學系列" scheme="https://bluebear119.github.io/tags/%E8%A9%AD%E9%8E%AE%E5%A5%87%E8%AB%87%E6%95%99%E5%AD%B8%E7%B3%BB%E5%88%97/" />
+        <category term="OTCGN" scheme="https://bluebear119.github.io/tags/OTCGN/" />
+        <category term="Arkham Horror LCG" scheme="https://bluebear119.github.io/tags/Arkham-Horror-LCG/" />
+        <category term="桌遊教學" scheme="https://bluebear119.github.io/tags/%E6%A1%8C%E9%81%8A%E6%95%99%E5%AD%B8/" />
+        <updated>2020-10-30T02:00:00.000Z</updated>
+    </entry>
+    <entry>
         <id>https://bluebear119.github.io/pathfinder_game/pf_character_build/Labita_wizard_build/</id>
         <title>拉比特角色卡詳細記錄</title>
         <link rel="alternate" href="https://bluebear119.github.io/pathfinder_game/pf_character_build/Labita_wizard_build/"/>
@@ -120,7 +146,7 @@
 &lt;h1 id=&#34;等級5-資料記錄&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#等級5-資料記錄&#34;&gt;#&lt;/a&gt; 等級 5 資料記錄&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;選擇一項獎勵專長：Spell Mastery&lt;/li&gt;
-&lt;li&gt;TESTTEST&lt;/li&gt;
+&lt;li&gt;TEST&lt;/li&gt;
 &lt;/ul&gt;
 </content>
         <category term="開拓者遊戲, 開拓者角色創建, SW2.5職業技能全解析]" scheme="https://bluebear119.github.io/categories/%E9%96%8B%E6%8B%93%E8%80%85%E9%81%8A%E6%88%B2-%E9%96%8B%E6%8B%93%E8%80%85%E8%A7%92%E8%89%B2%E5%89%B5%E5%BB%BA-SW2-5%E8%81%B7%E6%A5%AD%E6%8A%80%E8%83%BD%E5%85%A8%E8%A7%A3%E6%9E%90/" />
