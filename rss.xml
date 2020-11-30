@@ -46,9 +46,9 @@
 &lt;p&gt;成功進入遊戲主畫面後你會見到這樣的畫面。&lt;br /&gt;
 &lt;img data-src=&#34;https://i.ibb.co/mDgkDWn/Snipaste-2020-11-30-14-16-25.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;你需要做的第一件事是：載入調查員的牌組。&lt;br /&gt;
-按下 Ctrl+L 或者在選擇 Game &amp;gt; Load Deck, 之後選擇你想使用的調查員相關的牌組的.o8d 文件，比方說我想用 Stella Clark 作為今次的調查員，選擇後後，OCTGN 就會替你載入這幅牌組。&lt;/p&gt;
+按下 Ctrl+L 或者在選擇 Game &amp;gt; Load Deck, 之後選擇你想使用的調查員相關的牌組的.o8d 文件，比方說我想用 Stella Clark 作為今次的調查員，選擇後，OCTGN 就會替你載入這幅牌組。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://i.ibb.co/85Ly0MQ/Snipaste-2020-11-30-14-32-37.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;你也可以在&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hcmtoYW1kYi5jb20vZGVja2xpc3Rz&#34;&gt; Arkham DB&lt;/span&gt; 裡面找到其他人所建立的牌組，如果找到你喜歡想使用的也可以直接下載之後再載入 OTCGN&lt;/p&gt;
+&lt;p&gt;你也可以在&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hcmtoYW1kYi5jb20vZGVja2xpc3Rz&#34;&gt; Arkham DB&lt;/span&gt; 裡面找到其他人所建立的牌組，如果找到你喜歡想使用的也可以直接下載之後再載入 OTCGN。&lt;/p&gt;
 &lt;p&gt;接下來，你需要載入的就是和遊戲劇情相關的牌組，這包括了遭遇牌組，場景牌組以及密謀牌組。選擇 Game &amp;gt; Load Prebuild Deck , 選擇你今次要跑劇本對應的牌組。&lt;/p&gt;
 &lt;p&gt;例子：想跑的劇本為 The Path To Carcosa 的第一個劇本：Curtain Call.&lt;/p&gt;
 &lt;p&gt;那我要 Load 的 Deck 就可以在下面的路徑找到。&lt;br /&gt;
@@ -92,6 +92,50 @@ C:\Users\yourpcname\AppData\Local\Programs\OCTGN\Data\GameDatabase\a6d114c7-2e2a
 &lt;details class=&#34;success&#34;&gt;&lt;summary&gt;四人遊戲的設置&lt;/summary&gt;&lt;div&gt;
 &lt;p&gt;Arrange the Map such that one 3-Player and one 5-Player hemisphere are face-up&lt;/p&gt;
 &lt;/div&gt;&lt;/details&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bluebear119.github.io/pathfinder_game/pf_character_build/Labita_wizard_build/</guid>
+            <title>拉比特角色卡詳細記錄</title>
+            <link>https://bluebear119.github.io/pathfinder_game/pf_character_build/Labita_wizard_build/</link>
+            <category term="開拓者遊戲, 開拓者角色創建, SW2.5職業技能全解析]" scheme="https://bluebear119.github.io/categories/%E9%96%8B%E6%8B%93%E8%80%85%E9%81%8A%E6%88%B2-%E9%96%8B%E6%8B%93%E8%80%85%E8%A7%92%E8%89%B2%E5%89%B5%E5%BB%BA-SW2-5%E8%81%B7%E6%A5%AD%E6%8A%80%E8%83%BD%E5%85%A8%E8%A7%A3%E6%9E%90/" />
+            <category term="開拓者遊戲" scheme="https://bluebear119.github.io/tags/%E9%96%8B%E6%8B%93%E8%80%85%E9%81%8A%E6%88%B2/" />
+            <category term="開拓者角色創建" scheme="https://bluebear119.github.io/tags/%E9%96%8B%E6%8B%93%E8%80%85%E8%A7%92%E8%89%B2%E5%89%B5%E5%BB%BA/" />
+            <pubDate>Fri, 30 Oct 2020 10:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;基本資料&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本資料&#34;&gt;#&lt;/a&gt; 基本資料&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;角色名字：拉比特。伊諾 種族：精靈 體型：中等&lt;/li&gt;
+&lt;li&gt;角色等級：5&lt;/li&gt;
+&lt;li&gt;屬性數值
+&lt;ul&gt;
+&lt;li&gt;力量：8&lt;/li&gt;
+&lt;li&gt;敏捷：12 +2 (種族特性)&lt;/li&gt;
+&lt;li&gt;體質：12 -2 (種族特性)&lt;/li&gt;
+&lt;li&gt;智力：18 +2 (種族特性) +2&lt;/li&gt;
+&lt;li&gt;感知：12&lt;/li&gt;
+&lt;li&gt;魅力：8&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;生命數值：21&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;種族特性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#種族特性&#34;&gt;#&lt;/a&gt; 種族特性&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;精靈免疫：免疫魔法睡眠效果，對抗惑控系法術 / 效果，&lt;strong&gt;豁免檢定&lt;/strong&gt;獲得 + 2 種族加值&lt;/li&gt;
+&lt;li&gt;速度：30 尺&lt;/li&gt;
+&lt;li&gt;昏暗視覺&lt;/li&gt;
+&lt;li&gt;精靈在克服法術抗力施法者等級檢定獲得 + 2 種族加值 (SR +2)&lt;/li&gt;
+&lt;li&gt;察覺檢定 +2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;角色介紹&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#角色介紹&#34;&gt;#&lt;/a&gt; 角色介紹&lt;/h2&gt;
+&lt;p&gt;拉比特。伊諾【精靈】是塔爾多的某個小鎮的圖書館管理員，平常時間都在讀書館裡研究魔法，但有時為了生計。偶然也會出遠門參加自己所屬傭兵團可執行的任務。&lt;/p&gt;
+&lt;h1 id=&#34;已經掌握的1級法術&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#已經掌握的1級法術&#34;&gt;#&lt;/a&gt; 已經掌握的 1 級法術&lt;/h1&gt;
+&lt;h1 id=&#34;技能檢定&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#技能檢定&#34;&gt;#&lt;/a&gt; 技能檢定&lt;/h1&gt;
+&lt;p&gt;技能 總共 屬性 級數 雜項&lt;/p&gt;
+&lt;h1 id=&#34;等級5-資料記錄&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#等級5-資料記錄&#34;&gt;#&lt;/a&gt; 等級 5 資料記錄&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;選擇一項獎勵專長：Spell Mastery&lt;/li&gt;
+&lt;li&gt;TEST&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -140,50 +184,6 @@ C:\Users\yourpcname\AppData\Local\Programs\OCTGN\Data\GameDatabase\a6d114c7-2e2a
 &lt;ul&gt;
 &lt;li&gt;防禦式施法&lt;/li&gt;
 &lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://bluebear119.github.io/pathfinder_game/pf_character_build/Labita_wizard_build/</guid>
-            <title>拉比特角色卡詳細記錄</title>
-            <link>https://bluebear119.github.io/pathfinder_game/pf_character_build/Labita_wizard_build/</link>
-            <category term="開拓者遊戲, 開拓者角色創建, SW2.5職業技能全解析]" scheme="https://bluebear119.github.io/categories/%E9%96%8B%E6%8B%93%E8%80%85%E9%81%8A%E6%88%B2-%E9%96%8B%E6%8B%93%E8%80%85%E8%A7%92%E8%89%B2%E5%89%B5%E5%BB%BA-SW2-5%E8%81%B7%E6%A5%AD%E6%8A%80%E8%83%BD%E5%85%A8%E8%A7%A3%E6%9E%90/" />
-            <category term="開拓者遊戲" scheme="https://bluebear119.github.io/tags/%E9%96%8B%E6%8B%93%E8%80%85%E9%81%8A%E6%88%B2/" />
-            <category term="開拓者角色創建" scheme="https://bluebear119.github.io/tags/%E9%96%8B%E6%8B%93%E8%80%85%E8%A7%92%E8%89%B2%E5%89%B5%E5%BB%BA/" />
-            <pubDate>Fri, 30 Oct 2020 10:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;基本資料&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本資料&#34;&gt;#&lt;/a&gt; 基本資料&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;角色名字：拉比特。伊諾 種族：精靈 體型：中等&lt;/li&gt;
-&lt;li&gt;角色等級：5&lt;/li&gt;
-&lt;li&gt;屬性數值
-&lt;ul&gt;
-&lt;li&gt;力量：8&lt;/li&gt;
-&lt;li&gt;敏捷：12 +2 (種族特性)&lt;/li&gt;
-&lt;li&gt;體質：12 -2 (種族特性)&lt;/li&gt;
-&lt;li&gt;智力：18 +2 (種族特性) +2&lt;/li&gt;
-&lt;li&gt;感知：12&lt;/li&gt;
-&lt;li&gt;魅力：8&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;生命數值：21&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;種族特性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#種族特性&#34;&gt;#&lt;/a&gt; 種族特性&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;精靈免疫：免疫魔法睡眠效果，對抗惑控系法術 / 效果，&lt;strong&gt;豁免檢定&lt;/strong&gt;獲得 + 2 種族加值&lt;/li&gt;
-&lt;li&gt;速度：30 尺&lt;/li&gt;
-&lt;li&gt;昏暗視覺&lt;/li&gt;
-&lt;li&gt;精靈在克服法術抗力施法者等級檢定獲得 + 2 種族加值 (SR +2)&lt;/li&gt;
-&lt;li&gt;察覺檢定 +2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;角色介紹&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#角色介紹&#34;&gt;#&lt;/a&gt; 角色介紹&lt;/h2&gt;
-&lt;p&gt;拉比特。伊諾【精靈】是塔爾多的某個小鎮的圖書館管理員，平常時間都在讀書館裡研究魔法，但有時為了生計。偶然也會出遠門參加自己所屬傭兵團可執行的任務。&lt;/p&gt;
-&lt;h1 id=&#34;已經掌握的1級法術&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#已經掌握的1級法術&#34;&gt;#&lt;/a&gt; 已經掌握的 1 級法術&lt;/h1&gt;
-&lt;h1 id=&#34;技能檢定&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#技能檢定&#34;&gt;#&lt;/a&gt; 技能檢定&lt;/h1&gt;
-&lt;p&gt;技能 總共 屬性 級數 雜項&lt;/p&gt;
-&lt;h1 id=&#34;等級5-資料記錄&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#等級5-資料記錄&#34;&gt;#&lt;/a&gt; 等級 5 資料記錄&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;選擇一項獎勵專長：Spell Mastery&lt;/li&gt;
-&lt;li&gt;TEST&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
