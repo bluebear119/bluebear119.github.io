@@ -71,15 +71,45 @@
     <title>如何使用OTCGN來玩詭鎮奇談(Arkham Horror LCG)</title>
     <url>/boardgame/ahlcg/OTCGN_AH_Intro/</url>
     <content><![CDATA[<h1 id="otcgn介紹"><a class="anchor" href="#otcgn介紹">#</a> OTCGN 介紹</h1>
-<p><span class="exturl" data-url="aHR0cDovL3d3dy5vY3Rnbi5uZXQvSG9tZS9HZXRPY3Rnbg==">http://www.octgn.net/Home/GetOctgn</span></p>
+<p>一段介紹</p>
 <h1 id="安裝過程"><a class="anchor" href="#安裝過程">#</a> 安裝過程</h1>
 <h2 id="下載octgn"><a class="anchor" href="#下載octgn">#</a> 下載 OCTGN</h2>
+<p>可以到<span class="exturl" data-url="aHR0cDovL3d3dy5vY3Rnbi5uZXQvSG9tZS9HZXRPY3Rnbg==">官方網站</span>進行下載，下載前記得確認電腦滿足相關的前置條件。</p>
 <h2 id="安裝-arkham-horrorthe-card-game-definition"><a class="anchor" href="#安裝-arkham-horrorthe-card-game-definition">#</a> 安裝 Arkham Horror:The Card Game Definition</h2>
 <p>一旦你安裝好 OTCGN 之後，你就可以打開這個軟件，選擇 Games Manager，找到 Arkham Horror:The Card Game Definition 後，點擊安裝，之後 OTCGN 就會直接自動替你安裝好這個桌遊。</p>
 <p><img data-src="https://i.ibb.co/nm4QBYd/Snipaste-2020-11-30-05-53-24.webp" alt="" /></p>
-<p>但是，安裝好的桌遊並不包含遊戲圖片文件，這時候你需要到這個<span class="exturl" data-url="aHR0cHM6Ly9haGxjZ29jdGduLndvcmRwcmVzcy5jb20vaW1hZ2UtcGFja3Mv">頁面</span>去下載相關的圖片包</p>
+<p>但是，安裝好的桌遊並不包含遊戲圖片文件，這時候你需要到這個<span class="exturl" data-url="aHR0cHM6Ly9haGxjZ29jdGduLndvcmRwcmVzcy5jb20vaW1hZ2UtcGFja3Mv">頁面</span>去下載相關的圖片包。</p>
 <h2 id="安裝圖片包"><a class="anchor" href="#安裝圖片包">#</a> 安裝圖片包</h2>
-<p><img data-src="https://i.ibb.co/jWHxCcc/Snipaste-2020-11-30-06-03-08.webp" alt="" /></p>
+<p>在 Game Manager 裡面，選擇 Add Image Pack，之後把剛剛下載好的圖片包加進去<br />
+<img data-src="https://i.ibb.co/jWHxCcc/Snipaste-2020-11-30-06-03-08.webp" alt="" /></p>
+<h1 id="進行遊戲"><a class="anchor" href="#進行遊戲">#</a> 進行遊戲</h1>
+<p>想開始玩遊戲，你需要點擊 Play and Spectate，再按下 Start 按鈕。<br />
+<img data-src="https://i.ibb.co/KjWMThF/Snipaste-2020-11-30-13-58-58.webp" alt="" /></p>
+<p>看到這個頁面後再按一次 Start<br />
+<img data-src="https://i.ibb.co/JtySLX3/Snipaste-2020-11-30-14-11-29.webp" alt="" /></p>
+<p>成功進入遊戲主畫面後你會見到這樣的畫面。<br />
+<img data-src="https://i.ibb.co/mDgkDWn/Snipaste-2020-11-30-14-16-25.webp" alt="" /></p>
+<p>你需要做的第一件事是：載入調查員的牌組。<br />
+按下 Ctrl+L 或者在選擇 Game &gt; Load Deck, 之後選擇你想使用的調查員相關的牌組的.o8d 文件，比方說我想用 Stella Clark 作為今次的調查員，選擇後後，OCTGN 就會替你載入這幅牌組。</p>
+<p><img data-src="https://i.ibb.co/85Ly0MQ/Snipaste-2020-11-30-14-32-37.webp" alt="" /></p>
+<p>你也可以在<span class="exturl" data-url="aHR0cHM6Ly9hcmtoYW1kYi5jb20vZGVja2xpc3Rz"> Arkham DB</span> 裡面找到其他人所建立的牌組，如果找到你喜歡想使用的也可以直接下載之後再載入 OTCGN</p>
+<p>接下來，你需要載入的就是和遊戲劇情相關的牌組，這包括了遭遇牌組，場景牌組以及密謀牌組。選擇 Game &gt; Load Prebuild Deck , 選擇你今次要跑劇本對應的牌組。</p>
+<p>例子：想跑的劇本為 The Path To Carcosa 的第一個劇本：Curtain Call.</p>
+<p>那我要 Load 的 Deck 就可以在下面的路徑找到。<br />
+C:\Users\yourpcname\AppData\Local\Programs\OCTGN\Data\GameDatabase\a6d114c7-2e2a-4896-ad8c-0330605c90bf\Decks\03 - The Path to Carcosa</p>
+<p><img data-src="https://i.ibb.co/bQVtr1Z/Snipaste-2020-11-30-14-49-15.webp" alt="" /></p>
+<p>之後可以根據劇本指引來對這些卡片進行位置的設定。可以到官方網站找到相關<span class="exturl" data-url="aHR0cHM6Ly93d3cuZmFudGFzeWZsaWdodGdhbWVzLmNvbS9lbi9wcm9kdWN0cy9hcmtoYW0taG9ycm9yLXRoZS1jYXJkLWdhbWUvIy9zdXBwb3J0LXNlY3Rpb24=">劇本</span>裡面指引去設定特定的遊戲場景</p>
+<p>也就是說我該下載 The Path To Carcosa 的劇本指南。</p>
+<p>按照劇本指示擺放好遊戲的地點卡牌的位置例如這樣。<br />
+<img data-src="https://i.ibb.co/v34fps8/Snipaste-2020-11-30-16-49-47.webp" alt="" /><br />
+<img data-src="https://i.ibb.co/0G3XXJK/Snipaste-2020-11-30-16-51-58.webp" alt="" /></p>
+<p>劇本提到的遭遇牌會預先洗好好放在下面這個位置上<br />
+<img data-src="https://i.ibb.co/yd6hG9k/Snipaste-2020-11-30-16-54-29.webp" alt="" /></p>
+<p>而劇本提到的 Set Aside 的牌，你需要按下 Global 才可以見到。<br />
+<img data-src="https://i.ibb.co/SxVxW2k/Snipaste-2020-11-30-17-06-47.webp" alt="" /><br />
+<img data-src="https://i.ibb.co/ckmV7L9/Snipaste-2020-11-30-17-13-47.webp" alt="" /></p>
+<p>拉出來驗證一下看是不是劇本提到的都有在。檢查完畢發現沒有遺漏。<br />
+<img data-src="https://i.ibb.co/0DZbFVF/Snipaste-2020-11-30-17-17-03.webp" alt="" /></p>
 ]]></content>
       <categories>
         <category>桌遊</category>
@@ -139,34 +169,6 @@
       <tags>
         <tag>開拓者遊戲</tag>
         <tag>開拓者角色創建</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>克蘇魯戰爭桌遊遊戲規則</title>
-    <url>/boardgame/cocwar/cocwarsrule/cocwar_rule/</url>
-    <content><![CDATA[<h1 id="遊戲設置"><a class="anchor" href="#遊戲設置">#</a> 遊戲設置</h1>
-<h2 id="把地圖放好"><a class="anchor" href="#把地圖放好">#</a> 把地圖放好</h2>
-<ul>
-<li>遊戲裡面有兩塊地圖分別為東大陸和西大陸，每一塊大陸都會印有兩面。</li>
-<li>這兩面的地形是一樣的，但 5 人地圖的地域分佈會比 3 人地圖的地域分佈來的更為仔細。</li>
-</ul>
-<details class="primary"><summary>二人遊戲的設置</summary><div>
-<p>一段內容</p>
-</div></details>
-<details class="info"><summary>三人遊戲的設置</summary><div>
-<p>Arrange the Map so that both 3-Player hemispheres are face-up. The map will display 13 total Areas.</p>
-</div></details>
-<details class="success"><summary>四人遊戲的設置</summary><div>
-<p>Arrange the Map such that one 3-Player and one 5-Player hemisphere are face-up</p>
-</div></details>
-]]></content>
-      <categories>
-        <category>精選桌遊</category>
-        <category>克蘇魯戰爭</category>
-        <category>克蘇魯戰爭遊戲規則</category>
-      </categories>
-      <tags>
-        <tag>克蘇魯戰爭</tag>
       </tags>
   </entry>
   <entry>
@@ -383,6 +385,34 @@
         <tag>劍世界2.5</tag>
         <tag>角色創造補充指導書</tag>
         <tag>SW2.5職業技能全解析</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>克蘇魯戰爭桌遊遊戲規則</title>
+    <url>/boardgame/cocwar/cocwarsrule/cocwar_rule/</url>
+    <content><![CDATA[<h1 id="遊戲設置"><a class="anchor" href="#遊戲設置">#</a> 遊戲設置</h1>
+<h2 id="把地圖放好"><a class="anchor" href="#把地圖放好">#</a> 把地圖放好</h2>
+<ul>
+<li>遊戲裡面有兩塊地圖分別為東大陸和西大陸，每一塊大陸都會印有兩面。</li>
+<li>這兩面的地形是一樣的，但 5 人地圖的地域分佈會比 3 人地圖的地域分佈來的更為仔細。</li>
+</ul>
+<details class="primary"><summary>二人遊戲的設置</summary><div>
+<p>一段內容</p>
+</div></details>
+<details class="info"><summary>三人遊戲的設置</summary><div>
+<p>Arrange the Map so that both 3-Player hemispheres are face-up. The map will display 13 total Areas.</p>
+</div></details>
+<details class="success"><summary>四人遊戲的設置</summary><div>
+<p>Arrange the Map such that one 3-Player and one 5-Player hemisphere are face-up</p>
+</div></details>
+]]></content>
+      <categories>
+        <category>精選桌遊</category>
+        <category>克蘇魯戰爭</category>
+        <category>克蘇魯戰爭遊戲規則</category>
+      </categories>
+      <tags>
+        <tag>克蘇魯戰爭</tag>
       </tags>
   </entry>
   <entry>
