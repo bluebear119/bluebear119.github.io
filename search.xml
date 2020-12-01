@@ -17,6 +17,57 @@
       </tags>
   </entry>
   <entry>
+    <title>如何簡單的理解PF的戰鬥規則</title>
+    <url>/pathfinder_game/battle_simplify/</url>
+    <content><![CDATA[<h1 id="借機攻擊attacks-of-opportunity"><a class="anchor" href="#借機攻擊attacks-of-opportunity">#</a> 借機攻擊 (Attacks of Opportunity)</h1>
+<ul>
+<li>解釋：在玩家做了某些動作後會引起敵人成功突破他防線而發動的額外攻擊或者敵人做了某些動作引致玩家成功突破他防線而發動的額外攻擊。</li>
+</ul>
+<h2 id="威脅範圍threatened-sequence"><a class="anchor" href="#威脅範圍threatened-sequence">#</a> 威脅範圍 (Threatened Sequence)</h2>
+<ul>
+<li>解釋：你發到近戰攻擊可觸及的範圍，不論是否在你回合一樣計算在內。</li>
+<li>範圍：和你相鄰的格子以及斜向的相鄰格子。</li>
+<li>徒手攻擊不能當借機攻擊使用，因為沒有威脅範圍。</li>
+</ul>
+<h2 id="長觸及武器reach-weapons"><a class="anchor" href="#長觸及武器reach-weapons">#</a> 長觸及武器 (Reach Weapons)</h2>
+<ul>
+<li>大多數中型和小型生物只有 5 尺觸及範圍，最多只能打擊到距離他們 5 尺的對手。</li>
+<li>如果生物有長武 (Reach) 那就可以打到 10 尺範圍裡面的任何生物。</li>
+</ul>
+<h1 id="豁免檢定saving-throw"><a class="anchor" href="#豁免檢定saving-throw">#</a> 豁免檢定 (Saving Throw)</h1>
+<ul>
+<li>當你受到特殊或成為魔法攻擊目標時，你可以進行一次豁免檢定來免除或是降低因此所受的損害。</li>
+<li>1D20 + 基本豁免加值 (你職業的相關加值)+ 相關屬性修正</li>
+</ul>
+<h2 id="強韌fortitude"><a class="anchor" href="#強韌fortitude">#</a> 強韌 (Fortitude)</h2>
+<p>強韌豁免代表了你在抵抗物理損傷、或是直接針對你的健康狀況進行攻擊時，你對其的承受力。強韌豁免加值應用你的體質修正</p>
+<h2 id="反射reflex"><a class="anchor" href="#反射reflex">#</a> 反射 (Reflex)</h2>
+<p>反射豁免代表了你依靠技巧躲閃範圍攻擊、或是對於突發狀況的反應能力。反射豁免加值應用你的敏捷修正。</p>
+<h2 id="意志will"><a class="anchor" href="#意志will">#</a> 意志 (Will)</h2>
+<p>意志豁免代表了你對抗精神攻擊、以及其他影響你心靈效果的能力。意志豁免加值應用你的感知修正。</p>
+<h2 id="豁免dc"><a class="anchor" href="#豁免dc">#</a> 豁免 DC</h2>
+<ul>
+<li>豁免檢定的難度（DC）會在引發它的效果上標出。</li>
+<li>豁免的自動成功和失敗：在豁免檢定中自然投骰為 1（即 d20 投骰結果為 1），那麼你的豁免檢定自動失敗（並可能會使你身上攜帶的物品暴露在傷害下）</li>
+<li>在豁免檢定中自然投骰為 20（即 d20 投骰結果為 20），那麼你的豁免檢定自動成功。</li>
+</ul>
+<h1 id="戰鬥中可以進行的動作actions-in-combat"><a class="anchor" href="#戰鬥中可以進行的動作actions-in-combat">#</a> 戰鬥中可以進行的動作 (Actions in Combat)</h1>
+<h1 id="動作類型"><a class="anchor" href="#動作類型">#</a> 動作類型</h1>
+<h2 id="標準動作"><a class="anchor" href="#標準動作">#</a> 標準動作</h2>
+<ul>
+<li>防禦式施法</li>
+<li></li>
+</ul>
+]]></content>
+      <categories>
+        <category>開拓者遊戲</category>
+      </categories>
+      <tags>
+        <tag>開拓者遊戲</tag>
+        <tag>開拓者戰鬥規則</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何使用OTCGN來玩詭鎮奇談(Arkham Horror LCG)</title>
     <url>/boardgame/ahlcg/OTCGN_AH_Intro/</url>
     <content><![CDATA[<h1 id="otcgn介紹"><a class="anchor" href="#otcgn介紹">#</a> OTCGN 介紹</h1>
@@ -31,7 +82,7 @@
 <h2 id="安裝圖片包"><a class="anchor" href="#安裝圖片包">#</a> 安裝圖片包</h2>
 <p>在 Game Manager 裡面，選擇 Add Image Pack，之後把剛剛下載好的圖片包加進去<br />
 <img data-src="https://i.ibb.co/jWHxCcc/Snipaste-2020-11-30-06-03-08.webp" alt="" /></p>
-<h1 id="進行遊戲"><a class="anchor" href="#進行遊戲">#</a> 進行遊戲</h1>
+<h1 id="進行遊戲前期準備"><a class="anchor" href="#進行遊戲前期準備">#</a> 進行遊戲前期準備</h1>
 <p>想開始玩遊戲，你需要點擊 Play and Spectate，再按下 Start 按鈕。<br />
 <img data-src="https://i.ibb.co/KjWMThF/Snipaste-2020-11-30-13-58-58.webp" alt="" /></p>
 <p>看到這個頁面後再按一次 Start<br />
@@ -59,6 +110,13 @@ C:\Users\yourpcname\AppData\Local\Programs\OCTGN\Data\GameDatabase\a6d114c7-2e2a
 <img data-src="https://i.ibb.co/ckmV7L9/Snipaste-2020-11-30-17-13-47.webp" alt="" /></p>
 <p>拉出來驗證一下看是不是劇本提到的都有在。檢查完畢發現沒有遺漏。<br />
 <img data-src="https://i.ibb.co/0DZbFVF/Snipaste-2020-11-30-17-17-03.webp" alt="" /></p>
+<h1 id="正式遊戲"><a class="anchor" href="#正式遊戲">#</a> 正式遊戲</h1>
+<p>遊戲開始的時候的第一個階段會是調查階段，點擊你角色欄位框框的播放符號就會進入調查階段。<br />
+<img data-src="https://i.ibb.co/55jVSt8/Snipaste-2020-12-01-17-09-39.webp" alt="" /></p>
+<p>把你的角色拖到遊戲起始地點（劇本會告訴你起始地點），然之後你就可以翻開你身處地點的地點卡。</p>
+<p>右點擊你的卡牌或者 Ctrl+F 你就可以翻轉地點卡的另一面，閱讀上面文字內容，若有需要就可以放置相關數量的線索。</p>
+<p>在地點卡上右點擊可以加入或者移除 Token，包括資源 Token，線索 Token, 傷害 Token，恐怖 Token，行動 Token 以及毀滅 Token。<br />
+<img data-src="https://i.ibb.co/TKcgddz/Snipaste-2020-12-01-17-49-40.webp" alt="" /></p>
 ]]></content>
       <categories>
         <category>桌遊</category>
@@ -121,85 +179,6 @@ C:\Users\yourpcname\AppData\Local\Programs\OCTGN\Data\GameDatabase\a6d114c7-2e2a
       </tags>
   </entry>
   <entry>
-    <title>如何簡單的理解PF的戰鬥規則</title>
-    <url>/pathfinder_game/battle_simplify/</url>
-    <content><![CDATA[<h1 id="借機攻擊attacks-of-opportunity"><a class="anchor" href="#借機攻擊attacks-of-opportunity">#</a> 借機攻擊 (Attacks of Opportunity)</h1>
-<ul>
-<li>解釋：在玩家做了某些動作後會引起敵人成功突破他防線而發動的額外攻擊或者敵人做了某些動作引致玩家成功突破他防線而發動的額外攻擊。</li>
-</ul>
-<h2 id="威脅範圍threatened-sequence"><a class="anchor" href="#威脅範圍threatened-sequence">#</a> 威脅範圍 (Threatened Sequence)</h2>
-<ul>
-<li>解釋：你發到近戰攻擊可觸及的範圍，不論是否在你回合一樣計算在內。</li>
-<li>範圍：和你相鄰的格子以及斜向的相鄰格子。</li>
-<li>徒手攻擊不能當借機攻擊使用，因為沒有威脅範圍。</li>
-</ul>
-<h2 id="長觸及武器reach-weapons"><a class="anchor" href="#長觸及武器reach-weapons">#</a> 長觸及武器 (Reach Weapons)</h2>
-<ul>
-<li>大多數中型和小型生物只有 5 尺觸及範圍，最多只能打擊到距離他們 5 尺的對手。</li>
-<li>如果生物有長武 (Reach) 那就可以打到 10 尺範圍裡面的任何生物。</li>
-</ul>
-<h1 id="豁免檢定saving-throw"><a class="anchor" href="#豁免檢定saving-throw">#</a> 豁免檢定 (Saving Throw)</h1>
-<ul>
-<li>當你受到特殊或成為魔法攻擊目標時，你可以進行一次豁免檢定來免除或是降低因此所受的損害。</li>
-<li>1D20 + 基本豁免加值 (你職業的相關加值)+ 相關屬性修正</li>
-</ul>
-<h2 id="強韌fortitude"><a class="anchor" href="#強韌fortitude">#</a> 強韌 (Fortitude)</h2>
-<p>強韌豁免代表了你在抵抗物理損傷、或是直接針對你的健康狀況進行攻擊時，你對其的承受力。強韌豁免加值應用你的體質修正</p>
-<h2 id="反射reflex"><a class="anchor" href="#反射reflex">#</a> 反射 (Reflex)</h2>
-<p>反射豁免代表了你依靠技巧躲閃範圍攻擊、或是對於突發狀況的反應能力。反射豁免加值應用你的敏捷修正。</p>
-<h2 id="意志will"><a class="anchor" href="#意志will">#</a> 意志 (Will)</h2>
-<p>意志豁免代表了你對抗精神攻擊、以及其他影響你心靈效果的能力。意志豁免加值應用你的感知修正。</p>
-<h2 id="豁免dc"><a class="anchor" href="#豁免dc">#</a> 豁免 DC</h2>
-<ul>
-<li>豁免檢定的難度（DC）會在引發它的效果上標出。</li>
-<li>豁免的自動成功和失敗：在豁免檢定中自然投骰為 1（即 d20 投骰結果為 1），那麼你的豁免檢定自動失敗（並可能會使你身上攜帶的物品暴露在傷害下）</li>
-<li>在豁免檢定中自然投骰為 20（即 d20 投骰結果為 20），那麼你的豁免檢定自動成功。</li>
-</ul>
-<h1 id="戰鬥中可以進行的動作actions-in-combat"><a class="anchor" href="#戰鬥中可以進行的動作actions-in-combat">#</a> 戰鬥中可以進行的動作 (Actions in Combat)</h1>
-<h1 id="動作類型"><a class="anchor" href="#動作類型">#</a> 動作類型</h1>
-<h2 id="標準動作"><a class="anchor" href="#標準動作">#</a> 標準動作</h2>
-<ul>
-<li>防禦式施法</li>
-<li></li>
-</ul>
-]]></content>
-      <categories>
-        <category>開拓者遊戲</category>
-      </categories>
-      <tags>
-        <tag>開拓者遊戲</tag>
-        <tag>開拓者戰鬥規則</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>克蘇魯戰爭桌遊遊戲規則</title>
-    <url>/boardgame/cocwar/cocwarsrule/cocwar_rule/</url>
-    <content><![CDATA[<h1 id="遊戲設置"><a class="anchor" href="#遊戲設置">#</a> 遊戲設置</h1>
-<h2 id="把地圖放好"><a class="anchor" href="#把地圖放好">#</a> 把地圖放好</h2>
-<ul>
-<li>遊戲裡面有兩塊地圖分別為東大陸和西大陸，每一塊大陸都會印有兩面。</li>
-<li>這兩面的地形是一樣的，但 5 人地圖的地域分佈會比 3 人地圖的地域分佈來的更為仔細。</li>
-</ul>
-<details class="primary"><summary>二人遊戲的設置</summary><div>
-<p>一段內容</p>
-</div></details>
-<details class="info"><summary>三人遊戲的設置</summary><div>
-<p>Arrange the Map so that both 3-Player hemispheres are face-up. The map will display 13 total Areas.</p>
-</div></details>
-<details class="success"><summary>四人遊戲的設置</summary><div>
-<p>Arrange the Map such that one 3-Player and one 5-Player hemisphere are face-up</p>
-</div></details>
-]]></content>
-      <categories>
-        <category>精選桌遊</category>
-        <category>克蘇魯戰爭</category>
-        <category>克蘇魯戰爭遊戲規則</category>
-      </categories>
-      <tags>
-        <tag>克蘇魯戰爭</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>變成蟲蟲的公仔欺詐師之人物介紹 01 公仔人-TP</title>
     <url>/star-world/coc-novel-owncreation/dollman-advanture/dollmanTP/</url>
     <content><![CDATA[<p>大家好，這是我第一次以廣東話的形式來寫故事。這是一個關於克蘇魯神話生物當中，其中一隻怪物羅伊格爾 (Lloigor) 把一隻可愛的公仔人 - TP 當作實驗品後，佔領其肉體，令他靈魂變成了碎片散落到世界不同角落，使他被迫為了讓自己恢復原樣和找到羅伊格爾報仇的故事。</p>
@@ -230,6 +209,34 @@ C:\Users\yourpcname\AppData\Local\Programs\OCTGN\Data\GameDatabase\a6d114c7-2e2a
         <tag>人物介紹</tag>
         <tag>羅伊格爾</tag>
         <tag>變成蟲蟲的公仔欺詐師</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>克蘇魯戰爭桌遊遊戲規則</title>
+    <url>/boardgame/cocwar/cocwarsrule/cocwar_rule/</url>
+    <content><![CDATA[<h1 id="遊戲設置"><a class="anchor" href="#遊戲設置">#</a> 遊戲設置</h1>
+<h2 id="把地圖放好"><a class="anchor" href="#把地圖放好">#</a> 把地圖放好</h2>
+<ul>
+<li>遊戲裡面有兩塊地圖分別為東大陸和西大陸，每一塊大陸都會印有兩面。</li>
+<li>這兩面的地形是一樣的，但 5 人地圖的地域分佈會比 3 人地圖的地域分佈來的更為仔細。</li>
+</ul>
+<details class="primary"><summary>二人遊戲的設置</summary><div>
+<p>一段內容</p>
+</div></details>
+<details class="info"><summary>三人遊戲的設置</summary><div>
+<p>Arrange the Map so that both 3-Player hemispheres are face-up. The map will display 13 total Areas.</p>
+</div></details>
+<details class="success"><summary>四人遊戲的設置</summary><div>
+<p>Arrange the Map such that one 3-Player and one 5-Player hemisphere are face-up</p>
+</div></details>
+]]></content>
+      <categories>
+        <category>精選桌遊</category>
+        <category>克蘇魯戰爭</category>
+        <category>克蘇魯戰爭遊戲規則</category>
+      </categories>
+      <tags>
+        <tag>克蘇魯戰爭</tag>
       </tags>
   </entry>
   <entry>
