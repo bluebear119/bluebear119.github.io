@@ -73,6 +73,16 @@ C:\Users\yourpcname\AppData\Local\Programs\OCTGN\Data\GameDatabase\a6d114c7-2e2a
 &lt;p&gt;右點擊你的卡牌或者 Ctrl+F 你就可以翻轉地點卡的另一面，閱讀上面文字內容，若有需要就可以放置相關數量的線索。&lt;/p&gt;
 &lt;p&gt;在地點卡上右點擊可以加入或者移除 Token，包括資源 Token，線索 Token, 傷害 Token，恐怖 Token，行動 Token 以及毀滅 Token。&lt;br /&gt;
 &lt;img data-src=&#34;https://i.ibb.co/TKcgddz/Snipaste-2020-12-01-17-49-40.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;勝利點&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#勝利點&#34;&gt;#&lt;/a&gt; 勝利點&lt;/h2&gt;
+&lt;p&gt;詭鎮奇談裡面有一個叫做勝利點的機制，而我們可以在遭遇卡以及地點卡上找到這些寫有勝利點。當你滿足獲得勝利點的條件，便可以將勝利點的卡加入到勝利點卡的區域。&lt;/p&gt;
+&lt;p&gt;右點擊想加入勝利區的牌，選擇 Add to Victory Display, 之後按 Global，就可以見到剛剛加入勝利區的牌。&lt;br /&gt;
+&lt;img data-src=&#34;https://i.ibb.co/qN7LVy7/Snipaste-2020-12-02-16-23-18.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;進入下一回合&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#進入下一回合&#34;&gt;#&lt;/a&gt; 進入下一回合&lt;/h1&gt;
+&lt;p&gt;當你調查員階段結束後，你可以在桌面上右點擊滑鼠，選擇 Automation &amp;gt; Advance Phase, 那他就會按次序進入敵人回合 &amp;gt; 補給階段 &amp;gt; 神話階段等等。而進入補給階段的時候會自動幫你抽一張牌和增加一個資源在你調查員卡上。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.ibb.co/x7zXK21/Snipaste-2020-12-02-16-34-58.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;儲存載入遊戲&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#儲存載入遊戲&#34;&gt;#&lt;/a&gt; 儲存 &amp;amp; 載入遊戲&lt;/h1&gt;
+&lt;p&gt;對著桌面右點擊滑鼠，選擇 Saving Tools，如果要儲存選 Save Table State, 輸入你想存放路徑，若載入則選擇 Load Table State，再輸入你想載入的檔案途徑。之後點擊 OK 就完成了。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.ibb.co/bd6NSZw/Snipaste-2020-12-02-16-59-19.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
