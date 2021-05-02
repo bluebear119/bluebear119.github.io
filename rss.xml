@@ -24,14 +24,14 @@
             <pubDate>Sun, 02 May 2021 10:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;chrome-extension&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#chrome-extension&#34;&gt;#&lt;/a&gt; Chrome Extension&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;img data-src=&#34;https://chrome.google.com/webstore/detail/workona-tab-manager/ailcmbgekjpnablpdkmaaccecekgdhlh?hl=en-GB&#34; alt=&#34;Workorna&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img data-src=&#34;https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en-GB&#34; alt=&#34;Bitwarden&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img data-src=&#34;https://chrome.google.com/webstore/detail/audiblogs-send-as-podcast/fblchjbbkkaoobkhhbloehgkpdlomido?hl=en-GB&#34; alt=&#34;Audiblogs&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img data-src=&#34;https://chrome.google.com/webstore/detail/habitica-pomodoro-sitekee/iaanigfbldakklgdfcnbjonbehpbpecl?hl=en-GB&#34; alt=&#34;Habitica Pomodoro Sitekeeper&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img data-src=&#34;https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk?hl=en-GB&#34; alt=&#34;Notion Web Clipper&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img data-src=&#34;https://chrome.google.com/webstore/detail/notion-boost/eciepnnimnjaojlkcpdpcgbfkpcagahd?hl=en-GB&#34; alt=&#34;Notion Boost&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img data-src=&#34;https://chrome.google.com/webstore/detail/toggl-track-productivity/oejgccbfbmkkpaidnkphaiaecficdnfn?hl=en-GB&#34; alt=&#34;Toggl Track: Productivity &amp;amp; Time Tracker&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img data-src=&#34;https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk?hl=en-GB&#34; alt=&#34;KeePassXC-Browser&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwvd29ya29uYS10YWItbWFuYWdlci9haWxjbWJnZWtqcG5hYmxwZGttYWFjY2VjZWtnZGhsaD9obD1lbi1HQg==&#34;&gt;Workorna&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwvYml0d2FyZGVuLWZyZWUtcGFzc3dvcmQtbS9ubmdjZWNrYmFwZWJmaW1ubG5paWlhaGthbmRjbGJsYj9obD1lbi1HQg==&#34;&gt;Bitwarden&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwvYXVkaWJsb2dzLXNlbmQtYXMtcG9kY2FzdC9mYmxjaGpiYmtrYW9vYmtoaGJsb2VoZ2twZGxvbWlkbz9obD1lbi1HQg==&#34;&gt;Audiblogs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwvaGFiaXRpY2EtcG9tb2Rvcm8tc2l0ZWtlZS9pYWFuaWdmYmxkYWtrbGdkZmNuYmpvbmJlaHBicGVjbD9obD1lbi1HQg==&#34;&gt;Habitica Pomodoro Sitekeeper&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwvbm90aW9uLXdlYi1jbGlwcGVyL2tuaGVnZ2NrZ29paWhnaW5hY2JraGFhbG5pYmhpbGtrP2hsPWVuLUdC&#34;&gt;Notion Web Clipper&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwvbm90aW9uLWJvb3N0L2VjaWVwbm5pbW5qYW9qbGtjcGRwY2diZmtwY2FnYWhkP2hsPWVuLUdC&#34;&gt;Notion Boost&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwvdG9nZ2wtdHJhY2stcHJvZHVjdGl2aXR5L29lamdjY2JmYm1ra3BhaWRua3BoYWlhZWNmaWNkbmZuP2hsPWVuLUdC&#34;&gt;Toggl Track: Productivity &amp;amp; Time Tracker&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwva2VlcGFzc3hjLWJyb3dzZXIvb2Jvb25ha2Vtb2ZwYWxjZ2dob2Nmb2Fkb2ZpZGpra2s/aGw9ZW4tR0I=&#34;&gt;KeePassXC-Browser&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
