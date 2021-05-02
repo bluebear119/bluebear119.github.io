@@ -55,7 +55,19 @@
 <h1 id="動作類型"><a class="anchor" href="#動作類型">#</a> 動作類型</h1>
 <h2 id="標準動作"><a class="anchor" href="#標準動作">#</a> 標準動作</h2>
 <ul>
-<li>防禦式施法</li>
+<li>攻擊：近戰攻擊，徒手攻擊 (會引發借機)，遠程攻擊 (會引發借機)，天武攻擊，多次攻擊</li>
+</ul>
+<h3 id="遠程攻擊"><a class="anchor" href="#遠程攻擊">#</a> 遠程攻擊</h3>
+<ul>
+<li>
+<p>當你使用遠程攻擊的目標正在和你的同伴處於交戰狀態，你的攻擊檢定有 -4 減值</p>
+</li>
+<li>
+<p>如果你攻擊的目標離開你的同伴至少 10 尺</p>
+</li>
+<li>
+<p>防禦式施法</p>
+</li>
 <li></li>
 </ul>
 ]]></content>
@@ -127,6 +139,8 @@ C:\Users\yourpcname\AppData\Local\Programs\OCTGN\Data\GameDatabase\a6d114c7-2e2a
 <h1 id="儲存載入遊戲"><a class="anchor" href="#儲存載入遊戲">#</a> 儲存 &amp; 載入遊戲</h1>
 <p>對著桌面右點擊滑鼠，選擇 Saving Tools，如果要儲存選 Save Table State, 輸入你想存放路徑，若載入則選擇 Load Table State，再輸入你想載入的檔案途徑。之後點擊 OK 就完成了。</p>
 <p><img data-src="https://i.ibb.co/bd6NSZw/Snipaste-2020-12-02-16-59-19.webp" alt="" /></p>
+<p><img data-src="https://i.postimg.cc/1RJGCVrd/Liking-call-out-2-1.gif" alt="" /></p>
+<p><iframe src="https://button.like.co/in/embed/bluebear119/button?referrer=http://localhost:4000/star-world/coc-novel-owncreation/dollman-advanture/dollmanTP.html&amp" width="100%" height="300" frameborder="0" loading="lazy" allowfullscreen></iframe></p>
 ]]></content>
       <categories>
         <category>桌遊</category>
@@ -181,7 +195,9 @@ C:\Users\yourpcname\AppData\Local\Programs\OCTGN\Data\GameDatabase\a6d114c7-2e2a
 </ul>
 ]]></content>
       <categories>
-        <category>開拓者遊戲, 開拓者角色創建, SW2.5職業技能全解析]</category>
+        <category>開拓者遊戲</category>
+        <category>開拓者角色創建</category>
+        <category>冬臨天下角色卡</category>
       </categories>
       <tags>
         <tag>開拓者遊戲</tag>
@@ -239,6 +255,15 @@ C:\Users\yourpcname\AppData\Local\Programs\OCTGN\Data\GameDatabase\a6d114c7-2e2a
 <details class="success"><summary>四人遊戲的設置</summary><div>
 <p>Arrange the Map such that one 3-Player and one 5-Player hemisphere are face-up</p>
 </div></details>
+<h2 id="設定追踪指標物件以及骰子"><a class="anchor" href="#設定追踪指標物件以及骰子">#</a> 設定追踪指標，物件以及骰子</h2>
+<ul>
+<li>把殲滅儀式 Ritual of Annihilation track 放在一旁。</li>
+<li>將殲滅標記放在適合玩家人數上對應的殲滅儀式數值最低的位置上。</li>
+<li>將 Doom Track 放置在殲滅儀式旁邊。</li>
+<li>將傳送門和骰子放在所有人能輕易碰到的地方。</li>
+<li>把 36 個 Elder Signs 放進袋子再洗亂它。</li>
+<li>給每一個玩家一張遊戲提示卡。</li>
+</ul>
 ]]></content>
       <categories>
         <category>精選桌遊</category>
@@ -463,6 +488,31 @@ C:\Users\yourpcname\AppData\Local\Programs\OCTGN\Data\GameDatabase\a6d114c7-2e2a
         <tag>劍世界2.5</tag>
         <tag>角色創造補充指導書</tag>
         <tag>SW2.5職業技能全解析</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>實用產能工具教學全目錄</title>
+    <url>/Tools-monogatari/Productivity-Tool/Productivity-Tools-Main/</url>
+    <content><![CDATA[<h1 id="chrome-extension"><a class="anchor" href="#chrome-extension">#</a> Chrome Extension</h1>
+<ul>
+<li><img data-src="https://chrome.google.com/webstore/detail/workona-tab-manager/ailcmbgekjpnablpdkmaaccecekgdhlh?hl=en-GB" alt="Workorna" /></li>
+<li><img data-src="https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en-GB" alt="Bitwarden" /></li>
+<li><img data-src="https://chrome.google.com/webstore/detail/audiblogs-send-as-podcast/fblchjbbkkaoobkhhbloehgkpdlomido?hl=en-GB" alt="Audiblogs" /></li>
+<li><img data-src="https://chrome.google.com/webstore/detail/habitica-pomodoro-sitekee/iaanigfbldakklgdfcnbjonbehpbpecl?hl=en-GB" alt="Habitica Pomodoro Sitekeeper" /></li>
+<li><img data-src="https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk?hl=en-GB" alt="Notion Web Clipper" /></li>
+<li><img data-src="https://chrome.google.com/webstore/detail/notion-boost/eciepnnimnjaojlkcpdpcgbfkpcagahd?hl=en-GB" alt="Notion Boost" /></li>
+<li><img data-src="https://chrome.google.com/webstore/detail/toggl-track-productivity/oejgccbfbmkkpaidnkphaiaecficdnfn?hl=en-GB" alt="Toggl Track: Productivity &amp; Time Tracker" /></li>
+<li><img data-src="https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk?hl=en-GB" alt="KeePassXC-Browser" /></li>
+</ul>
+]]></content>
+      <categories>
+        <category>工具物語</category>
+        <category>產能工具</category>
+      </categories>
+      <tags>
+        <tag>工具物語</tag>
+        <tag>產能工具</tag>
+        <tag>工具目錄</tag>
       </tags>
   </entry>
 </search>
